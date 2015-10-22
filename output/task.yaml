@@ -1,0 +1,9 @@
+taskName: MyTask
+pointerName: log_ptr.dat
+cmdOptions: [a,b,c,d]
+initParams: {test: false}
+resetPtrFileTime: 300
+logFileName: D:/data/single.txt
+analyzelets: [com.jiepu.MainAnalyzelet]
+es_cluster_name:wjh
+es_ips:[127.0.0.1:9300,127.0.0.1:9300]

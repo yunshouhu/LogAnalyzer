@@ -1,0 +1,1 @@
+java -cp lib/LogAnalyzerFramework-1.0-SNAPSHOT.jar;lib/log4j-1.2.16.jar;lib/jyaml-1.3.jar;lib/commons-lang-2.6.jar;lib/commons-collections-3.2.1.jar;lib/commons-cli-1.2.jar;lib/mail-1.4.7.jar;lib/commons-io-2.4.jar loganalyzer.core.AnalyseLogTaskLauncher -log log4j.xml -task task.yaml

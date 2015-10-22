@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" ?>   
+<!DOCTYPE log4j:configuration SYSTEM "log4j.dtd">   
+   
+<log4j:configuration>   
+   
+ <appender name="CONSOLE" class="org.apache.log4j.ConsoleAppender">   
+  <layout class="org.apache.log4j.PatternLayout">   
+   <param name="ConversionPattern"   
+    value="%d - %c -%-4r [%t] %-5p %x - %m%n" />   
+  </layout>   
+     
+  <!--限制输出级别-->   
+  <filter class="org.apache.log4j.varia.LevelRangeFilter">   
+   <param name="LevelMax" value="ERROR"/>   
+   <param name="LevelMin" value="TRACE"/>   
+  </filter>   
+ </appender>   
+    
+ <appender name="FILE" class="org.apache.log4j.FileAppender">   
+  <param name="File" value="C:/log4j1.log"/>   
+  <layout class="org.apache.log4j.PatternLayout">   
+   <param name="ConversionPattern"   
+    value="%d - %c -%-4r [%t] %-5p %x - %m%n" />   
+  </layout>   
+ </appender>    
+    
+ <appender name="DATABASE" class="org.apache.log4j.jdbc.JDBCAppender">   
+  <param name="URL" value="jdbc:oracle:thin:@192.168.0.59:1521:oanet"/>   
+  <param name="driver" value="oracle.jdbc.driver.OracleDriver"/>   
+  <param name="user" value="hdczoa"/>   
+  <param name="password" value="system"/>       
+  <layout class="org.apache.log4j.PatternLayout">   
+   <param name="ConversionPattern"   
+    value="INSERT INTO hdczoa.LOG4J(stamp,thread, info_level,class,message) VALUES ('%d', '%t', '%p', '%c', %m)" />   
+  </layout>   
+ </appender>   
+    
+ <!-- 发邮件（只有ERROR时才会发送！） -->   
+ <appender name="MAIL"   
+  class="org.apache.log4j.net.SMTPAppender">   
+  <param name="threshold" value="debug" />   
+  <!-- 日志的错误级别   
+   <param name="threshold" value="fatal"/>   
+  -->   
+  <!-- 缓存文件大小，日志达到512K时发送Email -->   
+  <param name="BufferSize" value="512" /><!-- 单位K -->   
+  <param name="From" value="test@163.com" />   
+  <param name="SMTPHost" value="smtp.163.com" />   
+  <param name="Subject" value="juyee-log4jMessage" />   
+  <param name="To" value="test@163.com" />   
+  <param name="SMTPUsername" value="test" />   
+  <param name="SMTPPassword" value="test" />   
+  <layout class="org.apache.log4j.PatternLayout">   
+   <param name="ConversionPattern"   
+    value="%-d{yyyy-MM-dd HH:mm:ss.SSS} [%p]-[%c] %m%n" />   
+  </layout>   
+ </appender>   
+   
+ <appender name="ASYNC" class="org.apache.log4j.AsyncAppender">   
+  <param name="BufferSize" value="256" />   
+  <appender-ref ref="DATABASE" />   
+ </appender>   
+    
+ <!--通过<logger></logger>的定义可以将各个包中的类日志输出到不同的日志文件中-->   
+ <logger name="com.litt2.log4j" additivity="false">      
+        <level value="WARN" />      
+        <appender-ref ref="CONSOLE" />      
+    </logger>   
+   
+ <!--通过<category></category>的定义可以将各个包中的类日志输出到不同的日志文件中-->   
+ <category name="com.litt3">      
+    <level value="DEBUG" />    
+       <appender-ref ref="CONSOLE" />   
+       <appender-ref ref="MAIL" />   
+  </category>   
+    
+ <root>   
+  <priority value="debug" />   
+  <appender-ref ref="CONSOLE" />   
+  <appender-ref ref="FILE" />   
+ </root>   
+   
+   
+</log4j:configuration>   

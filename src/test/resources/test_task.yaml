@@ -1,0 +1,7 @@
+taskName: testTask
+pointerName: d:/data/test_ptr
+cmdOptions: [a,b,c,d]
+initParams: {test: true}
+resetPtrFileTime: 30
+logFileName: D:/data/single.txt
+analyzelets: [loganalyzer.core.test.TestAnalyzelet]

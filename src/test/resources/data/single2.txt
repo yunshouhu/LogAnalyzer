@@ -1,0 +1,155 @@
+2015-10-20 10:55:21,510 Resolving host: udc.msn.com
+2015-10-20 10:55:21,510 Host not cached.
+2015-10-20 10:55:21,514 Resolving host: c.msn.com.cn
+2015-10-20 10:55:21,515 Host not cached.
+2015-10-20 10:55:21,517 Resolving host: cn.msn.com
+2015-10-20 10:55:21,517 Host not cached.
+2015-10-20 10:55:21,518 Resolving host: cn.msn.com
+2015-10-20 10:55:21,518 Host not cached.
+2015-10-20 10:55:21,556 Resolving host: stjscn.s-msn.com
+2015-10-20 10:55:21,556 Host not cached.
+2015-10-20 10:55:21,557 Resolving host: msn.qtmojo.com
+2015-10-20 10:55:21,557 Host not cached.
+2015-10-20 10:55:21,559 Resolving host: pos.baidu.com
+2015-10-20 10:55:21,559 Host not cached.
+2015-10-20 10:55:21,562 Resolved host successfully: c.msn.com.cn -> 111.221.29.30
+2015-10-20 10:55:21,562 Sending request via HTTP...
+2015-10-20 10:55:21,563 Resolved host successfully: udc.msn.com -> 111.221.29.16
+2015-10-20 10:55:21,563 Sending request via HTTP...
+2015-10-20 10:55:21,563 Resolved host successfully: cn.msn.com -> 222.216.188.94
+2015-10-20 10:55:21,563 Sending request via HTTP...
+2015-10-20 10:55:21,563 Resolved host successfully: cn.msn.com -> 222.216.188.95
+2015-10-20 10:55:21,564 Sending request via HTTP...
+2015-10-20 10:55:21,571 HTTP connection made.
+2015-10-20 10:55:21,571 Sending Request: GET /homep_ad_300x250_2.html
+2015-10-20 10:55:21,572 Sending header: accept-language : zh-CN
+2015-10-20 10:55:21,572 Sending header: connection : Keep-Alive
+2015-10-20 10:55:21,572 Sending header: accept : image/jpeg, application/x-ms-application, image/gif, application/xaml+xml, image/pjpeg, application/x-ms-xbap, */*
+2015-10-20 10:55:21,572 Sending header: user-agent : Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)
+2015-10-20 10:55:21,572 Sending header: host : cn.msn.com
+2015-10-20 10:55:21,572 Sending header: cookie : manto_vjid=d32ad82836943f86be6552e5629f4904; wid=1; Sample=39; vjuids=-5b80b033.1507f7c28b7.0.18861c797ee518; vjlast=1445247855.1445389373.11
+2015-10-20 10:55:21,572 Sending header: referer : http://cn.msn.com/?ocid=iehp
+2015-10-20 10:55:21,572 Sending header: if-none-match : "7097a2cce2d0d01:0"
+2015-10-20 10:55:21,572 HTTP connection made.
+2015-10-20 10:55:21,572 Sending Request: GET /homep_ad_2.html
+2015-10-20 10:55:21,573 Sending header: accept-language : zh-CN
+2015-10-20 10:55:21,573 Sending header: connection : Keep-Alive
+2015-10-20 10:55:21,573 Sending header: accept : image/jpeg, application/x-ms-application, image/gif, application/xaml+xml, image/pjpeg, application/x-ms-xbap, */*
+2015-10-20 10:55:21,573 Sending header: user-agent : Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)
+2015-10-20 10:55:21,573 Sending header: host : cn.msn.com
+2015-10-20 10:55:21,573 Sending header: cookie : manto_vjid=d32ad82836943f86be6552e5629f4904; wid=1; Sample=39; vjuids=-5b80b033.1507f7c28b7.0.18861c797ee518; vjlast=1445247855.1445389373.11
+2015-10-20 10:55:21,573 Sending header: referer : http://cn.msn.com/?ocid=iehp
+2015-10-20 10:55:21,573 Sending header: if-none-match : "e1f65bcbe2d0d01:0"
+2015-10-20 10:55:21,580 Got server response: HTTP/1.0 304 Not Modified
+2015-10-20 10:55:21,580 Got server header: Date:Wed, 21 Oct 2015 02:14:43 GMT
+2015-10-20 10:55:21,580 Got server header: Content-Type:text/html
+2015-10-20 10:55:21,580 Got server header: Last-Modified:Fri, 07 Aug 2015 07:29:30 GMT
+2015-10-20 10:55:21,580 Got server header: ETag:"7097a2cce2d0d01:0"
+2015-10-20 10:55:21,580 Got server header: Cache-Control:max-age=3600
+2015-10-20 10:55:21,580 Got server header: Age:87
+2015-10-20 10:55:21,580 Got server header: X-Via:1.0 gxnndx22:3 (Cdn Cache Server V2.0)
+2015-10-20 10:55:21,581 Got server header: X-Cdn-Info:222.216.188.22-ChinaNetCenter
+2015-10-20 10:55:21,581 Got server header: Connection:keep-alive
+2015-10-20 10:55:21,582 Got server response: HTTP/1.0 304 Not Modified
+2015-10-20 10:55:21,582 Got server header: Date:Wed, 21 Oct 2015 02:14:43 GMT
+2015-10-20 10:55:21,582 Got server header: Content-Type:text/html
+2015-10-20 10:55:21,582 Got server header: Last-Modified:Fri, 07 Aug 2015 07:29:28 GMT
+2015-10-20 10:55:21,582 Got server header: ETag:"e1f65bcbe2d0d01:0"
+2015-10-20 10:55:21,582 Got server header: Cache-Control:max-age=3600
+2015-10-20 10:55:21,582 Got server header: Age:171
+2015-10-20 10:55:21,582 Got server header: X-Via:1.0 gxnndx30:10 (Cdn Cache Server V2.0)
+2015-10-20 10:55:21,582 Got server header: X-Cdn-Info:222.216.188.30-ChinaNetCenter
+2015-10-20 10:55:21,582 Got server header: Connection:keep-alive
+2015-10-20 10:55:21,604 Resolved host successfully: msn.qtmojo.com -> 118.26.144.27
+2015-10-20 10:55:21,604 Sending request via HTTP...
+2015-10-20 10:55:21,605 Resolved host successfully: stjscn.s-msn.com -> 222.216.188.94
+2015-10-20 10:55:21,605 Sending request via HTTP...
+2015-10-20 10:55:21,605 Resolved host successfully: pos.baidu.com -> 115.239.210.141
+2015-10-20 10:55:21,605 Sending request via HTTP...
+2015-10-20 10:55:21,612 HTTP connection made.
+2015-10-20 10:55:21,612 Sending Request: GET /portal/hp/2015/808.html?jakdjsfa
+2015-10-20 10:55:21,612 Sending header: accept-language : zh-CN
+2015-10-20 10:55:21,612 Sending header: host : stjscn.s-msn.com
+2015-10-20 10:55:21,612 Sending header: accept : image/jpeg, application/x-ms-application, image/gif, application/xaml+xml, image/pjpeg, application/x-ms-xbap, */*
+2015-10-20 10:55:21,612 Sending header: user-agent : Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)
+2015-10-20 10:55:21,612 Sending header: connection : Keep-Alive
+2015-10-20 10:55:21,612 Sending header: referer : http://cn.msn.com/?ocid=iehp
+2015-10-20 10:55:21,612 Sending header: if-none-match : "b5a4ff0aa7dd01:0"
+2015-10-20 10:55:21,622 Got server response: HTTP/1.0 304 Not Modified
+2015-10-20 10:55:21,623 Got server header: Date:Wed, 21 Oct 2015 02:14:43 GMT
+2015-10-20 10:55:21,623 Got server header: Content-Type:text/html
+2015-10-20 10:55:21,623 Got server header: Last-Modified:Thu, 23 Apr 2015 09:43:50 GMT
+2015-10-20 10:55:21,623 Got server header: ETag:"b5a4ff0aa7dd01:0"
+2015-10-20 10:55:21,623 Got server header: Cache-Control:max-age=3600
+2015-10-20 10:55:21,623 Got server header: Age:59
+2015-10-20 10:55:21,623 Got server header: X-Via:1.0 gxnndx23:5 (Cdn Cache Server V2.0)
+2015-10-20 10:55:21,623 Got server header: X-Cdn-Info:222.216.188.23-ChinaNetCenter
+2015-10-20 10:55:21,623 Got server header: Connection:keep-alive
+2015-10-20 10:55:21,647 HTTP connection made.
+2015-10-20 10:55:21,647 Sending Request: GET /acom?di=u1446536&dcb=BAIDU_DUP2_define&dtm=BAIDU_DUP2_SETJSONADSLOT&dbv=0&dci=0&dri=0&dis=0&dai=1&dds=&drs=3&dvi=1444976201&ltu=http%3A%2F%2Fcn.msn.com%2F%3Focid%3Diehp&liu=&ltr=&lcr=&ps=2528x-2&psr=1440x900&par=1440x860&pcs=863x423&pss=1000x2636&pis=-1x-1&cfv=0&ccd=32&chi=0&cja=true&cpl=0&cmi=0&cce=true&col=zh-cn&cec=utf-8&cdo=-1&tsr=109&tlm=1445393683&tcn=1445393684&tpr=1445393683680&dpt=none&coa=&dpr=1&ti=MSN%E4%B8%AD%E6%96%87%E7%BD%91%EF%BC%9A%E6%95%B0%E5%AD%97%E7%94%9F%E6%B4%BB%20%E7%99%BD%E9%A2%86%E9%97%A8%E6%88%B7%3B%20(MSN%E5%AE%98%E6%96%B9%E4%B8%8B%E8%BD%BD)&baidu_id=
+2015-10-20 10:55:21,647 Sending header: accept-language : zh-CN
+2015-10-20 10:55:21,648 Sending header: host : pos.baidu.com
+2015-10-20 10:55:21,648 Sending header: accept : */*
+2015-10-20 10:55:21,648 Sending header: user-agent : Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)
+2015-10-20 10:55:21,648 Sending header: connection : Keep-Alive
+2015-10-20 10:55:21,648 Sending header: referer : http://cn.msn.com/?ocid=iehp
+2015-10-20 10:55:21,648 Sending header: cookie : BAIDUID=26760B206E1DC868B19AE77EF36A563B:FG=1; ISBID=26760B206E1DC868B19AE77EF36A563B:FG=1; ISUS=1; CPROID=26760B206E1DC868B19AE77EF36A563B:FG=1
+2015-10-20 10:55:21,653 HTTP connection made.
+2015-10-20 10:55:21,653 Sending Request: GET /main/adfshow?user=MSN|Home_Page|Homepage_2nd_Banner_980X90&db=msn&border=0&local=yes
+2015-10-20 10:55:21,653 Sending header: accept-language : zh-CN
+2015-10-20 10:55:21,653 Sending header: host : msn.qtmojo.com
+2015-10-20 10:55:21,653 Sending header: accept : image/jpeg, application/x-ms-application, image/gif, application/xaml+xml, image/pjpeg, application/x-ms-xbap, */*
+2015-10-20 10:55:21,653 Sending header: user-agent : Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)
+2015-10-20 10:55:21,653 Sending header: connection : Keep-Alive
+2015-10-20 10:55:21,653 Sending header: referer : http://cn.msn.com/?ocid=iehp
+2015-10-20 10:55:21,653 Sending header: cookie : uid=COKPs2U6b2A5yGI3nHX
+2015-10-20 10:55:21,681 HTTP connection made.
+2015-10-20 10:55:21,681 Sending Request: GET /c.gif?rid=2F138E545FF94579B2F2796A930A3787&cts=1445393683508&di=361&pi=33235&ps=70635&tp=http%3A%2F%2Fcn.msn.com%2F%3Focid%3Diehp&udc=true
+2015-10-20 10:55:21,681 Sending header: accept-language : zh-CN
+2015-10-20 10:55:21,681 Sending header: host : c.msn.com.cn
+2015-10-20 10:55:21,681 Sending header: accept : */*
+2015-10-20 10:55:21,681 Sending header: user-agent : Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)
+2015-10-20 10:55:21,681 Sending header: connection : Keep-Alive
+2015-10-20 10:55:21,681 Sending header: referer : http://cn.msn.com/?ocid=iehp
+2015-10-20 10:55:21,681 Sending header: cookie : MR=0; ANONCHK=0; MUID=1D1884929FF9629221D98CD79BF963B4
+2015-10-20 10:55:21,695 Got server response: HTTP/1.0 200 OK
+2015-10-20 10:55:21,695 Got server header: Cache-Control:post-check=0, pre-check=0
+2015-10-20 10:55:21,695 Got server header: Content-Length:1098
+2015-10-20 10:55:21,695 Got server header: Content-Type:text/javascript;charset=UTF-8
+2015-10-20 10:55:21,696 Got server header: Date:Wed, 21 Oct 2015 02:14:43 GMT
+2015-10-20 10:55:21,696 Got server header: Expires:Mon, 26 Jul 1997 05:00:00 GMT
+2015-10-20 10:55:21,696 Got server header: Last-Modified:Wed Oct 21 10:14:43 2015
+2015-10-20 10:55:21,696 Got server header: P3p:CP=" OTI DSP COR IVA OUR IND COM "
+2015-10-20 10:55:21,696 Got server header: Pragma:no-cache
+2015-10-20 10:55:21,696 Got server header: Server:nginx
+2015-10-20 10:55:21,696 Read from server:
+BAIDU_DUP2_define('request!u1446536_0',[],{deps:['nova/painter/inlayFixed1392089005'],data:{"id" : "u1446536","_isMlt" : 4,"sw" : 262,"sh" : 90,"_html" : {"adn":"0", "at":"128", "aurl":"", "cad":"1", "ccd":"32", "cec":"utf-8", "cfv":"0", "ch":"0", "col":"zh-cn", "conOP":"0", "cpa":"1", "dai":"1", "dis":"0", "layout_filter":"rank", "ltr":"", "ltu":"http://cn.msn.com/?ocid=iehp", "lunum":"6", "n":"08067099_1_cpr", "pcs":"863x423", "pis":"10000x10000", "ps":"2528x-2", "psr":"1440x900", "pss":"1000x2636", "qn":"c010ee6fb1f6fc6e", "rad":"", "rsi0":"262", "rsi1":"90", "rsi5":"4", "rss0":"", "rss1":"", "rss2":"", "rss3":"", "rss4":"", "rss5":"", "rss6":"", "rss7":"", "scale":"", "skin":"tabcloud_skin_1", "stid":"5", "td_id":"1446536", "tn":"baiduCustSTagLinkUnit", "tpr":"1445393683680", "ts":"1", "version":"2.0", "xuanting":"0"},"_html_old" : "cpro_template=baiduCustSTagLinkUnit|cpro_stid=5|cpro_skin=tabcloud_skin_1|cpro_client=08067099_1_cpr|cpro_at=linkunit|cpro_layout_filter=rank|cpro_cad=1|cpro_w=262|cpro_h=90|cpro_version=2.0","qn" : "c010ee6fb1f6fc6e","_qid" : "c010ee6fb1f6fc6e"}});
+2015-10-20 10:55:21,702 Got server response: HTTP/1.1 200 OK
+2015-10-20 10:55:21,703 Got server header: Date:Wed, 21 Oct 2015 02:14:43 GMT
+2015-10-20 10:55:21,703 Got server header: Server:Apache
+2015-10-20 10:55:21,703 Got server header: P3P:CP="OTI PSA OUR"
+2015-10-20 10:55:21,703 Got server header: Expires:-1
+2015-10-20 10:55:21,703 Got server header: Content-Length:1075
+2015-10-20 10:55:21,703 Got server header: Connection:close
+2015-10-20 10:55:21,703 Got server header: Content-Type:text/html
+2015-10-20 10:55:21,703 Read from server:
+<html><head><meta http-equiv="cache-control" content="no-cache"></head><body style="BACKGROUND-COLOR:transparent"><SCRIPT LANGUAGE="Javascript">
+ADFHOST178118="http://msn.qtmojo.com";
+ADFCID178118=1765;
+ADFBID178118=178118;
+ADFLOC='CNGXNN';
+ADFUSER178118="http://msn.qtmojo.com/main/adfclick?d=msn-0&i=z1765,2622131,178118,1192115&k=&p=0&v=1445393683.571&wl=&rf=http%3A%2F%2Fcn%2Emsn%2Ecom%2F%3Focid~~iehp&u=http://www.ef.com.cn/online/lp/cn/2014yr/ee/master-template.aspx?ctr=cn&lng=cs&ptn=mscn&etag=E128975";
+</SCRIPT><SCRIPT LANGUAGE="Javascript"> 
+document.write("<a href=" + ADFUSER178118 +" target=\"_blank\" style=\"position:relative;display:inline-block;_display:inline;width:980px;height:90px;border:none;overflow:hidden;\"><img src=\"http://msnms.qtmojo.cn/msnms/2015/20150720/980x90.jpg\" border=\"0\" width=\"980\" height=\"90\"><i style=\"position:absolute;left:0;bottom:0;width:29px;height:16px;line-height:16px;font-size:0;border:none;margin:0;padding:0;z-index:1;background:url(http://creatim.qtmojo.cn/adwarning.png) 0 0 no-repeat\"></i></a>\n");
+</SCRIPT>
+2015-10-20 10:55:21,726 HTTP connection made.
+2015-10-20 10:55:21,726 Sending Request: GET /c.gif?mk=zh-cn&di=361&pi=33235&ps=70635&pn=mainpage&pp=false&clid=2F138E545FF94579B2F2796A930A3787&cu=http%3A%2F%2Fcn.msn.com%2F%3Focid%3Diehp&bh=4&bw=4&sl=0&slv=&scr=1440x900&sd=32&rid=2F138E545FF94579B2F2796A930A3787&cts=1445393683508&hp=N&evt=impr
+2015-10-20 10:55:21,726 Sending header: accept-language : zh-CN
+2015-10-20 10:55:21,726 Sending header: host : udc.msn.com
+2015-10-20 10:55:21,726 Sending header: accept : */*
+2015-10-20 10:55:21,727 Sending header: user-agent : Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)
+2015-10-20 10:55:21,727 Sending header: connection : Keep-Alive
+2015-10-20 10:55:21,727 Sending header: referer : http://cn.msn.com/?ocid=iehp
+2015-10-20 10:55:21,727 Sending header: cookie : Sample=39; vjuids=-5b80b033.1507f7c28b7.0.18861c797ee518; vjlast=1445247855.1445389373.11
+2015-10-20 10:55:21,767 Resolving host: pos.baidu.com
+2015-10-20 10:55:21,768 Host cached.

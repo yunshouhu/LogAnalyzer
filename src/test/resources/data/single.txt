@@ -1,0 +1,978 @@
+2015-10-20 10:55:21,510 Resolving host: udc.msn.com
+2015-10-20 10:55:21,510 Host not cached.
+2015-10-20 10:55:21,514 Resolving host: c.msn.com.cn
+2015-10-20 10:55:21,515 Host not cached.
+2015-10-20 10:55:21,517 Resolving host: cn.msn.com
+2015-10-20 10:55:21,517 Host not cached.
+2015-10-20 10:55:21,518 Resolving host: cn.msn.com
+2015-10-20 10:55:21,518 Host not cached.
+2015-10-20 10:55:21,556 Resolving host: stjscn.s-msn.com
+2015-10-20 10:55:21,556 Host not cached.
+2015-10-20 10:55:21,557 Resolving host: msn.qtmojo.com
+2015-10-20 10:55:21,557 Host not cached.
+2015-10-20 10:55:21,559 Resolving host: pos.baidu.com
+2015-10-20 10:55:21,559 Host not cached.
+2015-10-20 10:55:21,562 Resolved host successfully: c.msn.com.cn -> 111.221.29.30
+2015-10-20 10:55:21,562 Sending request via HTTP...
+2015-10-20 10:55:21,563 Resolved host successfully: udc.msn.com -> 111.221.29.16
+2015-10-20 10:55:21,563 Sending request via HTTP...
+2015-10-20 10:55:21,563 Resolved host successfully: cn.msn.com -> 222.216.188.94
+2015-10-20 10:55:21,563 Sending request via HTTP...
+2015-10-20 10:55:21,563 Resolved host successfully: cn.msn.com -> 222.216.188.95
+2015-10-20 10:55:21,564 Sending request via HTTP...
+2015-10-20 10:55:21,571 HTTP connection made.
+2015-10-20 10:55:21,571 Sending Request: GET /homep_ad_300x250_2.html
+2015-10-20 10:55:21,572 Sending header: accept-language : zh-CN
+2015-10-20 10:55:21,572 Sending header: connection : Keep-Alive
+2015-10-20 10:55:21,572 Sending header: accept : image/jpeg, application/x-ms-application, image/gif, application/xaml+xml, image/pjpeg, application/x-ms-xbap, */*
+2015-10-20 10:55:21,572 Sending header: user-agent : Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)
+2015-10-20 10:55:21,572 Sending header: host : cn.msn.com
+2015-10-20 10:55:21,572 Sending header: cookie : manto_vjid=d32ad82836943f86be6552e5629f4904; wid=1; Sample=39; vjuids=-5b80b033.1507f7c28b7.0.18861c797ee518; vjlast=1445247855.1445389373.11
+2015-10-20 10:55:21,572 Sending header: referer : http://cn.msn.com/?ocid=iehp
+2015-10-20 10:55:21,572 Sending header: if-none-match : "7097a2cce2d0d01:0"
+2015-10-20 10:55:21,572 HTTP connection made.
+2015-10-20 10:55:21,572 Sending Request: GET /homep_ad_2.html
+2015-10-20 10:55:21,573 Sending header: accept-language : zh-CN
+2015-10-20 10:55:21,573 Sending header: connection : Keep-Alive
+2015-10-20 10:55:21,573 Sending header: accept : image/jpeg, application/x-ms-application, image/gif, application/xaml+xml, image/pjpeg, application/x-ms-xbap, */*
+2015-10-20 10:55:21,573 Sending header: user-agent : Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)
+2015-10-20 10:55:21,573 Sending header: host : cn.msn.com
+2015-10-20 10:55:21,573 Sending header: cookie : manto_vjid=d32ad82836943f86be6552e5629f4904; wid=1; Sample=39; vjuids=-5b80b033.1507f7c28b7.0.18861c797ee518; vjlast=1445247855.1445389373.11
+2015-10-20 10:55:21,573 Sending header: referer : http://cn.msn.com/?ocid=iehp
+2015-10-20 10:55:21,573 Sending header: if-none-match : "e1f65bcbe2d0d01:0"
+2015-10-20 10:55:21,580 Got server response: HTTP/1.0 304 Not Modified
+2015-10-20 10:55:21,580 Got server header: Date:Wed, 21 Oct 2015 02:14:43 GMT
+2015-10-20 10:55:21,580 Got server header: Content-Type:text/html
+2015-10-20 10:55:21,580 Got server header: Last-Modified:Fri, 07 Aug 2015 07:29:30 GMT
+2015-10-20 10:55:21,580 Got server header: ETag:"7097a2cce2d0d01:0"
+2015-10-20 10:55:21,580 Got server header: Cache-Control:max-age=3600
+2015-10-20 10:55:21,580 Got server header: Age:87
+2015-10-20 10:55:21,580 Got server header: X-Via:1.0 gxnndx22:3 (Cdn Cache Server V2.0)
+2015-10-20 10:55:21,581 Got server header: X-Cdn-Info:222.216.188.22-ChinaNetCenter
+2015-10-20 10:55:21,581 Got server header: Connection:keep-alive
+2015-10-20 10:55:21,582 Got server response: HTTP/1.0 304 Not Modified
+2015-10-20 10:55:21,582 Got server header: Date:Wed, 21 Oct 2015 02:14:43 GMT
+2015-10-20 10:55:21,582 Got server header: Content-Type:text/html
+2015-10-20 10:55:21,582 Got server header: Last-Modified:Fri, 07 Aug 2015 07:29:28 GMT
+2015-10-20 10:55:21,582 Got server header: ETag:"e1f65bcbe2d0d01:0"
+2015-10-20 10:55:21,582 Got server header: Cache-Control:max-age=3600
+2015-10-20 10:55:21,582 Got server header: Age:171
+2015-10-20 10:55:21,582 Got server header: X-Via:1.0 gxnndx30:10 (Cdn Cache Server V2.0)
+2015-10-20 10:55:21,582 Got server header: X-Cdn-Info:222.216.188.30-ChinaNetCenter
+2015-10-20 10:55:21,582 Got server header: Connection:keep-alive
+2015-10-20 10:55:21,604 Resolved host successfully: msn.qtmojo.com -> 118.26.144.27
+2015-10-20 10:55:21,604 Sending request via HTTP...
+2015-10-20 10:55:21,605 Resolved host successfully: stjscn.s-msn.com -> 222.216.188.94
+2015-10-20 10:55:21,605 Sending request via HTTP...
+2015-10-20 10:55:21,605 Resolved host successfully: pos.baidu.com -> 115.239.210.141
+2015-10-20 10:55:21,605 Sending request via HTTP...
+2015-10-20 10:55:21,612 HTTP connection made.
+2015-10-20 10:55:21,612 Sending Request: GET /portal/hp/2015/808.html?jakdjsfa
+2015-10-20 10:55:21,612 Sending header: accept-language : zh-CN
+2015-10-20 10:55:21,612 Sending header: host : stjscn.s-msn.com
+2015-10-20 10:55:21,612 Sending header: accept : image/jpeg, application/x-ms-application, image/gif, application/xaml+xml, image/pjpeg, application/x-ms-xbap, */*
+2015-10-20 10:55:21,612 Sending header: user-agent : Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)
+2015-10-20 10:55:21,612 Sending header: connection : Keep-Alive
+2015-10-20 10:55:21,612 Sending header: referer : http://cn.msn.com/?ocid=iehp
+2015-10-20 10:55:21,612 Sending header: if-none-match : "b5a4ff0aa7dd01:0"
+2015-10-20 10:55:21,622 Got server response: HTTP/1.0 304 Not Modified
+2015-10-20 10:55:21,623 Got server header: Date:Wed, 21 Oct 2015 02:14:43 GMT
+2015-10-20 10:55:21,623 Got server header: Content-Type:text/html
+2015-10-20 10:55:21,623 Got server header: Last-Modified:Thu, 23 Apr 2015 09:43:50 GMT
+2015-10-20 10:55:21,623 Got server header: ETag:"b5a4ff0aa7dd01:0"
+2015-10-20 10:55:21,623 Got server header: Cache-Control:max-age=3600
+2015-10-20 10:55:21,623 Got server header: Age:59
+2015-10-20 10:55:21,623 Got server header: X-Via:1.0 gxnndx23:5 (Cdn Cache Server V2.0)
+2015-10-20 10:55:21,623 Got server header: X-Cdn-Info:222.216.188.23-ChinaNetCenter
+2015-10-20 10:55:21,623 Got server header: Connection:keep-alive
+2015-10-20 10:55:21,647 HTTP connection made.
+2015-10-20 10:55:21,647 Sending Request: GET /acom?di=u1446536&dcb=BAIDU_DUP2_define&dtm=BAIDU_DUP2_SETJSONADSLOT&dbv=0&dci=0&dri=0&dis=0&dai=1&dds=&drs=3&dvi=1444976201&ltu=http%3A%2F%2Fcn.msn.com%2F%3Focid%3Diehp&liu=&ltr=&lcr=&ps=2528x-2&psr=1440x900&par=1440x860&pcs=863x423&pss=1000x2636&pis=-1x-1&cfv=0&ccd=32&chi=0&cja=true&cpl=0&cmi=0&cce=true&col=zh-cn&cec=utf-8&cdo=-1&tsr=109&tlm=1445393683&tcn=1445393684&tpr=1445393683680&dpt=none&coa=&dpr=1&ti=MSN%E4%B8%AD%E6%96%87%E7%BD%91%EF%BC%9A%E6%95%B0%E5%AD%97%E7%94%9F%E6%B4%BB%20%E7%99%BD%E9%A2%86%E9%97%A8%E6%88%B7%3B%20(MSN%E5%AE%98%E6%96%B9%E4%B8%8B%E8%BD%BD)&baidu_id=
+2015-10-20 10:55:21,647 Sending header: accept-language : zh-CN
+2015-10-20 10:55:21,648 Sending header: host : pos.baidu.com
+2015-10-20 10:55:21,648 Sending header: accept : */*
+2015-10-20 10:55:21,648 Sending header: user-agent : Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)
+2015-10-20 10:55:21,648 Sending header: connection : Keep-Alive
+2015-10-20 10:55:21,648 Sending header: referer : http://cn.msn.com/?ocid=iehp
+2015-10-20 10:55:21,648 Sending header: cookie : BAIDUID=26760B206E1DC868B19AE77EF36A563B:FG=1; ISBID=26760B206E1DC868B19AE77EF36A563B:FG=1; ISUS=1; CPROID=26760B206E1DC868B19AE77EF36A563B:FG=1
+2015-10-20 10:55:21,653 HTTP connection made.
+2015-10-20 10:55:21,653 Sending Request: GET /main/adfshow?user=MSN|Home_Page|Homepage_2nd_Banner_980X90&db=msn&border=0&local=yes
+2015-10-20 10:55:21,653 Sending header: accept-language : zh-CN
+2015-10-20 10:55:21,653 Sending header: host : msn.qtmojo.com
+2015-10-20 10:55:21,653 Sending header: accept : image/jpeg, application/x-ms-application, image/gif, application/xaml+xml, image/pjpeg, application/x-ms-xbap, */*
+2015-10-20 10:55:21,653 Sending header: user-agent : Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)
+2015-10-20 10:55:21,653 Sending header: connection : Keep-Alive
+2015-10-20 10:55:21,653 Sending header: referer : http://cn.msn.com/?ocid=iehp
+2015-10-20 10:55:21,653 Sending header: cookie : uid=COKPs2U6b2A5yGI3nHX
+2015-10-20 10:55:21,681 HTTP connection made.
+2015-10-20 10:55:21,681 Sending Request: GET /c.gif?rid=2F138E545FF94579B2F2796A930A3787&cts=1445393683508&di=361&pi=33235&ps=70635&tp=http%3A%2F%2Fcn.msn.com%2F%3Focid%3Diehp&udc=true
+2015-10-20 10:55:21,681 Sending header: accept-language : zh-CN
+2015-10-20 10:55:21,681 Sending header: host : c.msn.com.cn
+2015-10-20 10:55:21,681 Sending header: accept : */*
+2015-10-20 10:55:21,681 Sending header: user-agent : Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)
+2015-10-20 10:55:21,681 Sending header: connection : Keep-Alive
+2015-10-20 10:55:21,681 Sending header: referer : http://cn.msn.com/?ocid=iehp
+2015-10-20 10:55:21,681 Sending header: cookie : MR=0; ANONCHK=0; MUID=1D1884929FF9629221D98CD79BF963B4
+2015-10-20 10:55:21,695 Got server response: HTTP/1.0 200 OK
+2015-10-20 10:55:21,695 Got server header: Cache-Control:post-check=0, pre-check=0
+2015-10-20 10:55:21,695 Got server header: Content-Length:1098
+2015-10-20 10:55:21,695 Got server header: Content-Type:text/javascript;charset=UTF-8
+2015-10-20 10:55:21,696 Got server header: Date:Wed, 21 Oct 2015 02:14:43 GMT
+2015-10-20 10:55:21,696 Got server header: Expires:Mon, 26 Jul 1997 05:00:00 GMT
+2015-10-20 10:55:21,696 Got server header: Last-Modified:Wed Oct 21 10:14:43 2015
+2015-10-20 10:55:21,696 Got server header: P3p:CP=" OTI DSP COR IVA OUR IND COM "
+2015-10-20 10:55:21,696 Got server header: Pragma:no-cache
+2015-10-20 10:55:21,696 Got server header: Server:nginx
+2015-10-20 10:55:21,696 Read from server:
+BAIDU_DUP2_define('request!u1446536_0',[],{deps:['nova/painter/inlayFixed1392089005'],data:{"id" : "u1446536","_isMlt" : 4,"sw" : 262,"sh" : 90,"_html" : {"adn":"0", "at":"128", "aurl":"", "cad":"1", "ccd":"32", "cec":"utf-8", "cfv":"0", "ch":"0", "col":"zh-cn", "conOP":"0", "cpa":"1", "dai":"1", "dis":"0", "layout_filter":"rank", "ltr":"", "ltu":"http://cn.msn.com/?ocid=iehp", "lunum":"6", "n":"08067099_1_cpr", "pcs":"863x423", "pis":"10000x10000", "ps":"2528x-2", "psr":"1440x900", "pss":"1000x2636", "qn":"c010ee6fb1f6fc6e", "rad":"", "rsi0":"262", "rsi1":"90", "rsi5":"4", "rss0":"", "rss1":"", "rss2":"", "rss3":"", "rss4":"", "rss5":"", "rss6":"", "rss7":"", "scale":"", "skin":"tabcloud_skin_1", "stid":"5", "td_id":"1446536", "tn":"baiduCustSTagLinkUnit", "tpr":"1445393683680", "ts":"1", "version":"2.0", "xuanting":"0"},"_html_old" : "cpro_template=baiduCustSTagLinkUnit|cpro_stid=5|cpro_skin=tabcloud_skin_1|cpro_client=08067099_1_cpr|cpro_at=linkunit|cpro_layout_filter=rank|cpro_cad=1|cpro_w=262|cpro_h=90|cpro_version=2.0","qn" : "c010ee6fb1f6fc6e","_qid" : "c010ee6fb1f6fc6e"}});
+2015-10-20 10:55:21,702 Got server response: HTTP/1.1 200 OK
+2015-10-20 10:55:21,703 Got server header: Date:Wed, 21 Oct 2015 02:14:43 GMT
+2015-10-20 10:55:21,703 Got server header: Server:Apache
+2015-10-20 10:55:21,703 Got server header: P3P:CP="OTI PSA OUR"
+2015-10-20 10:55:21,703 Got server header: Expires:-1
+2015-10-20 10:55:21,703 Got server header: Content-Length:1075
+2015-10-20 10:55:21,703 Got server header: Connection:close
+2015-10-20 10:55:21,703 Got server header: Content-Type:text/html
+2015-10-20 10:55:21,703 Read from server:
+<html><head><meta http-equiv="cache-control" content="no-cache"></head><body style="BACKGROUND-COLOR:transparent"><SCRIPT LANGUAGE="Javascript">
+ADFHOST178118="http://msn.qtmojo.com";
+ADFCID178118=1765;
+ADFBID178118=178118;
+ADFLOC='CNGXNN';
+ADFUSER178118="http://msn.qtmojo.com/main/adfclick?d=msn-0&i=z1765,2622131,178118,1192115&k=&p=0&v=1445393683.571&wl=&rf=http%3A%2F%2Fcn%2Emsn%2Ecom%2F%3Focid~~iehp&u=http://www.ef.com.cn/online/lp/cn/2014yr/ee/master-template.aspx?ctr=cn&lng=cs&ptn=mscn&etag=E128975";
+</SCRIPT><SCRIPT LANGUAGE="Javascript"> 
+document.write("<a href=" + ADFUSER178118 +" target=\"_blank\" style=\"position:relative;display:inline-block;_display:inline;width:980px;height:90px;border:none;overflow:hidden;\"><img src=\"http://msnms.qtmojo.cn/msnms/2015/20150720/980x90.jpg\" border=\"0\" width=\"980\" height=\"90\"><i style=\"position:absolute;left:0;bottom:0;width:29px;height:16px;line-height:16px;font-size:0;border:none;margin:0;padding:0;z-index:1;background:url(http://creatim.qtmojo.cn/adwarning.png) 0 0 no-repeat\"></i></a>\n");
+</SCRIPT>
+2015-10-20 10:55:21,726 HTTP connection made.
+2015-10-20 10:55:21,726 Sending Request: GET /c.gif?mk=zh-cn&di=361&pi=33235&ps=70635&pn=mainpage&pp=false&clid=2F138E545FF94579B2F2796A930A3787&cu=http%3A%2F%2Fcn.msn.com%2F%3Focid%3Diehp&bh=4&bw=4&sl=0&slv=&scr=1440x900&sd=32&rid=2F138E545FF94579B2F2796A930A3787&cts=1445393683508&hp=N&evt=impr
+2015-10-20 10:55:21,726 Sending header: accept-language : zh-CN
+2015-10-20 10:55:21,726 Sending header: host : udc.msn.com
+2015-10-20 10:55:21,726 Sending header: accept : */*
+2015-10-20 10:55:21,727 Sending header: user-agent : Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)
+2015-10-20 10:55:21,727 Sending header: connection : Keep-Alive
+2015-10-20 10:55:21,727 Sending header: referer : http://cn.msn.com/?ocid=iehp
+2015-10-20 10:55:21,727 Sending header: cookie : Sample=39; vjuids=-5b80b033.1507f7c28b7.0.18861c797ee518; vjlast=1445247855.1445389373.11
+2015-10-20 10:55:21,767 Resolving host: pos.baidu.com
+2015-10-20 10:55:21,768 Host cached.
+2015-10-20 10:55:21,768 Resolved host successfully: pos.baidu.com -> 115.239.210.141
+2015-10-20 10:55:21,768 Sending request via HTTP...
+2015-10-20 10:55:21,800 Got server response: HTTP/1.1 200 OK
+2015-10-20 10:55:21,800 Got server header: Cache-Control:private, no-cache, proxy-revalidate, no-store
+2015-10-20 10:55:21,800 Got server header: Pragma:no-cache
+2015-10-20 10:55:21,800 Got server header: Content-Type:image/gif
+2015-10-20 10:55:21,800 Response is image content, not scanning...
+2015-10-20 10:55:21,800 Got server header: Last-Modified:Fri, 18 Jul 2014 00:31:13 GMT
+2015-10-20 10:55:21,801 Got server header: Accept-Ranges:bytes
+2015-10-20 10:55:21,801 Got server header: ETag:"1f463e941fa2cf1:0"
+2015-10-20 10:55:21,801 Got server header: Server:Microsoft-IIS/8.5
+2015-10-20 10:55:21,801 Got server header: X-Powered-By:ASP.NET
+2015-10-20 10:55:21,801 Got server header: P3P:CP="BUS CUR CONo FIN IVDo ONL OUR PHY SAMo TELo"
+2015-10-20 10:55:21,801 Got server header: Date:Wed, 21 Oct 2015 02:14:42 GMT
+2015-10-20 10:55:21,801 Got server header: Connection:keep-alive
+2015-10-20 10:55:21,801 Got server header: Content-Length:42
+2015-10-20 10:55:21,812 Resolving host: pos.baidu.com
+2015-10-20 10:55:21,812 Host cached.
+2015-10-20 10:55:21,812 Resolved host successfully: pos.baidu.com -> 115.239.210.141
+2015-10-20 10:55:21,812 Sending request via HTTP...
+2015-10-20 10:55:21,813 HTTP connection made.
+2015-10-20 10:55:21,813 Sending Request: GET /acom?adn=0&at=128&aurl=&cad=1&ccd=32&cec=utf-8&cfv=0&ch=0&col=zh-cn&conOP=0&cpa=1&dai=1&dis=0&layout_filter=rank&ltr=&ltu=http%3A%2F%2Fcn.msn.com%2F%3Focid%3Diehp&lunum=6&n=08067099_1_cpr&pcs=863x423&pis=10000x10000&ps=2528x-2&psr=1440x900&pss=1000x2636&qn=c010ee6fb1f6fc6e&rad=&rsi0=262&rsi1=90&rsi5=4&rss0=&rss1=&rss2=&rss3=&rss4=&rss5=&rss6=&rss7=&scale=&skin=tabcloud_skin_1&stid=5&td_id=1446536&tn=baiduCustSTagLinkUnit&tpr=1445393683680&ts=1&version=2.0&xuanting=0&dtm=BAIDU_DUP2_SETJSONADSLOT&dc=2&di=u1446536&ti=MSN%E4%B8%AD%E6%96%87%E7%BD%91%EF%BC%9A%E6%95%B0%E5%AD%97%E7%94%9F%E6%B4%BB%20%E7%99%BD%E9%A2%86%E9%97%A8%E6%88%B7%3B%20(MSN%E5%AE%98%E6%96%B9%E4%B8%8B%E8%BD%BD)&tt=1445393683571.109.421.421
+2015-10-20 10:55:21,813 Sending header: accept-language : zh-CN
+2015-10-20 10:55:21,813 Sending header: host : pos.baidu.com
+2015-10-20 10:55:21,813 Sending header: accept : image/jpeg, application/x-ms-application, image/gif, application/xaml+xml, image/pjpeg, application/x-ms-xbap, */*
+2015-10-20 10:55:21,813 Sending header: user-agent : Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)
+2015-10-20 10:55:21,813 Sending header: connection : Keep-Alive
+2015-10-20 10:55:21,813 Sending header: referer : http://cn.msn.com/?ocid=iehp
+2015-10-20 10:55:21,813 Sending header: cookie : BAIDUID=26760B206E1DC868B19AE77EF36A563B:FG=1; ISBID=26760B206E1DC868B19AE77EF36A563B:FG=1; ISUS=1; CPROID=26760B206E1DC868B19AE77EF36A563B:FG=1
+2015-10-20 10:55:21,855 HTTP connection made.
+2015-10-20 10:55:21,855 Sending Request: GET /acom?di=u1446549&dcb=BAIDU_DUP2_define&dtm=BAIDU_DUP2_SETJSONADSLOT&dbv=0&dci=0&dri=0&dis=0&dai=2&dds=&drs=3&dvi=1444976201&ltu=http%3A%2F%2Fcn.msn.com%2F%3Focid%3Diehp&liu=&ltr=&lcr=&ps=2528x270&psr=1440x900&par=1440x860&pcs=863x423&pss=1000x2636&pis=-1x-1&cfv=0&ccd=32&chi=0&cja=true&cpl=0&cmi=0&cce=true&col=zh-cn&cec=utf-8&cdo=-1&tsr=468&tlm=1445393684&tcn=1445393684&tpr=1445393683680&dpt=none&coa=&dpr=1&ti=MSN%E4%B8%AD%E6%96%87%E7%BD%91%EF%BC%9A%E6%95%B0%E5%AD%97%E7%94%9F%E6%B4%BB%20%E7%99%BD%E9%A2%86%E9%97%A8%E6%88%B7%3B%20(MSN%E5%AE%98%E6%96%B9%E4%B8%8B%E8%BD%BD)&baidu_id=
+2015-10-20 10:55:21,855 Sending header: accept-language : zh-CN
+2015-10-20 10:55:21,855 Sending header: host : pos.baidu.com
+2015-10-20 10:55:21,855 Sending header: accept : */*
+2015-10-20 10:55:21,855 Sending header: user-agent : Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)
+2015-10-20 10:55:21,855 Sending header: connection : Keep-Alive
+2015-10-20 10:55:21,855 Sending header: referer : http://cn.msn.com/?ocid=iehp
+2015-10-20 10:55:21,855 Sending header: cookie : BAIDUID=26760B206E1DC868B19AE77EF36A563B:FG=1; ISBID=26760B206E1DC868B19AE77EF36A563B:FG=1; ISUS=1; CPROID=26760B206E1DC868B19AE77EF36A563B:FG=1
+2015-10-20 10:55:21,890 Got server response: HTTP/1.1 200 OK
+2015-10-20 10:55:21,890 Got server header: Cache-Control:no-cache, no-store, must-revalidate
+2015-10-20 10:55:21,890 Got server header: Pragma:no-cache
+2015-10-20 10:55:21,890 Got server header: Content-Type:image/gif
+2015-10-20 10:55:21,890 Response is image content, not scanning...
+2015-10-20 10:55:21,890 Got server header: Expires:-1
+2015-10-20 10:55:21,890 Got server header: Last-Modified:Thu, 10 Oct 2013 19:07:18 GMT
+2015-10-20 10:55:21,891 Got server header: Accept-Ranges:bytes
+2015-10-20 10:55:21,891 Got server header: ETag:"11edd5f0ebc5ce1:0"
+2015-10-20 10:55:21,891 Got server header: Server:Microsoft-IIS/8.0
+2015-10-20 10:55:21,891 Got server header: S:HK2SCH010220129
+2015-10-20 10:55:21,891 Got server header: Access-Control-Allow-Origin:*
+2015-10-20 10:55:21,891 Got server header: Access-Control-Allow-Headers:Content-Type
+2015-10-20 10:55:21,891 Got server header: Access-Control-Allow-Methods:POST, GET, OPTIONS
+2015-10-20 10:55:21,891 Got server header: Access-Control-Max-Age:21600
+2015-10-20 10:55:21,891 Got server header: Date:Wed, 21 Oct 2015 02:14:42 GMT
+2015-10-20 10:55:21,891 Got server header: Connection:keep-alive
+2015-10-20 10:55:21,891 Got server header: Content-Length:42
+2015-10-20 10:55:21,906 Got server response: HTTP/1.0 200 OK
+2015-10-20 10:55:21,906 Got server header: Cache-Control:post-check=0, pre-check=0
+2015-10-20 10:55:21,906 Got server header: Content-Length:1258
+2015-10-20 10:55:21,906 Got server header: Content-Type:text/javascript;charset=UTF-8
+2015-10-20 10:55:21,906 Got server header: Date:Wed, 21 Oct 2015 02:14:43 GMT
+2015-10-20 10:55:21,906 Got server header: Expires:Mon, 26 Jul 1997 05:00:00 GMT
+2015-10-20 10:55:21,906 Got server header: Last-Modified:Wed Oct 21 10:14:43 2015
+2015-10-20 10:55:21,906 Got server header: P3p:CP=" OTI DSP COR IVA OUR IND COM "
+2015-10-20 10:55:21,906 Got server header: Pragma:no-cache
+2015-10-20 10:55:21,906 Got server header: Server:nginx
+2015-10-20 10:55:21,906 Read from server:
+BAIDU_DUP2_define('request!u1446549_0',[],{deps:['nova/painter/inlayFixed1392089005'],data:{"id" : "u1446549","_isMlt" : 4,"sw" : 728,"sh" : 90,"_html" : {"adn":"3", "at":"134", "aurl":"", "cad":"0", "ccd":"32", "cec":"utf-8", "cfv":"0", "ch":"0", "col":"zh-cn", "conOP":"0", "cpa":"1", "dai":"2", "dis":"0", "layout_filter":"rank,tabcloud", "ltr":"", "ltu":"http://cn.msn.com/?ocid=iehp", "lunum":"6", "n":"08067099_1_cpr", "pcs":"863x423", "pis":"10000x10000", "ps":"2528x270", "psr":"1440x900", "pss":"1000x2636", "qn":"230b3f866cdfee95", "rad":"", "rsi0":"728", "rsi1":"90", "rsi5":"4", "rss0":"#FFFFFF", "rss1":"#FFFFFF", "rss2":"#0000FF", "rss3":"#444444", "rss4":"#008000", "rss5":"", "rss6":"#e10900", "rss7":"#ffffff", "scale":"", "skin":"", "td_id":"1446549", "tn":"text_default_728_90", "tpr":"1445393683680", "ts":"1", "version":"2.0", "xuanting":"0"},"_html_old" : "cpro_template=text_default_728_90|cpro_161=3|cpro_flush=4|cpro_cbd=#FFFFFF|cpro_cbg=#FFFFFF|cpro_ctitle=#0000FF|cpro_cdesc=#444444|cpro_curl=#008000|cpro_cflush=#e10900|cpro_client=08067099_1_cpr|cpro_at=image,linkunit|cpro_layout_filter=rank,tabcloud|cpro_cad=0|cpro_acolor=#ffffff|cpro_w=728|cpro_h=90|cpro_version=2.0","qn" : "230b3f866cdfee95","_qid" : "230b3f866cdfee95"}});
+2015-10-20 10:55:21,914 Resolving host: pos.baidu.com
+2015-10-20 10:55:21,914 Host cached.
+2015-10-20 10:55:21,914 Resolved host successfully: pos.baidu.com -> 115.239.210.141
+2015-10-20 10:55:21,914 Sending request via HTTP...
+2015-10-20 10:55:21,920 Got server response: HTTP/1.0 200 OK
+2015-10-20 10:55:21,921 Got server header: Cache-Control:post-check=0, pre-check=0
+2015-10-20 10:55:21,921 Got server header: Content-Length:23855
+2015-10-20 10:55:21,921 Got server header: Content-Type:text/html
+2015-10-20 10:55:21,921 Got server header: Date:Wed, 21 Oct 2015 02:14:43 GMT
+2015-10-20 10:55:21,921 Got server header: Expires:Mon, 26 Jul 1997 05:00:00 GMT
+2015-10-20 10:55:21,921 Got server header: Last-Modified:Wed Oct 21 10:14:43 2015
+2015-10-20 10:55:21,921 Got server header: P3p:CP=" OTI DSP COR IVA OUR IND COM "
+2015-10-20 10:55:21,921 Got server header: Pragma:no-cache
+2015-10-20 10:55:21,921 Got server header: Server:nginx
+2015-10-20 10:55:21,924 Resolving host: msn.qtmojo.com
+2015-10-20 10:55:21,924 Host cached.
+2015-10-20 10:55:21,924 Resolved host successfully: msn.qtmojo.com -> 118.26.144.27
+2015-10-20 10:55:21,924 Sending request via HTTP...
+2015-10-20 10:55:21,924 Resolving host: msn.qtmojo.com
+2015-10-20 10:55:21,924 Host cached.
+2015-10-20 10:55:21,925 Resolved host successfully: msn.qtmojo.com -> 118.26.144.27
+2015-10-20 10:55:21,926 Sending request via HTTP...
+2015-10-20 10:55:21,930 Resolving host: msn.qtmojo.com
+2015-10-20 10:55:21,930 Host cached.
+2015-10-20 10:55:21,930 Resolved host successfully: msn.qtmojo.com -> 118.26.144.27
+2015-10-20 10:55:21,930 Sending request via HTTP...
+2015-10-20 10:55:21,934 Resolving host: msn.qtmojo.com
+2015-10-20 10:55:21,934 Host cached.
+2015-10-20 10:55:21,935 Resolved host successfully: msn.qtmojo.com -> 118.26.144.27
+2015-10-20 10:55:21,935 Sending request via HTTP...
+2015-10-20 10:55:21,942 Resolving host: msn.qtmojo.com
+2015-10-20 10:55:21,942 Host cached.
+2015-10-20 10:55:21,942 Resolved host successfully: msn.qtmojo.com -> 118.26.144.27
+2015-10-20 10:55:21,942 Sending request via HTTP...
+2015-10-20 10:55:21,952 HTTP connection made.
+2015-10-20 10:55:21,952 Sending Request: GET /acom?adn=3&at=134&aurl=&cad=0&ccd=32&cec=utf-8&cfv=0&ch=0&col=zh-cn&conOP=0&cpa=1&dai=2&dis=0&layout_filter=rank%2Ctabcloud&ltr=&ltu=http%3A%2F%2Fcn.msn.com%2F%3Focid%3Diehp&lunum=6&n=08067099_1_cpr&pcs=863x423&pis=10000x10000&ps=2528x270&psr=1440x900&pss=1000x2636&qn=230b3f866cdfee95&rad=&rsi0=728&rsi1=90&rsi5=4&rss0=%23FFFFFF&rss1=%23FFFFFF&rss2=%230000FF&rss3=%23444444&rss4=%23008000&rss5=&rss6=%23e10900&rss7=%23ffffff&scale=&skin=&td_id=1446549&tn=text_default_728_90&tpr=1445393683680&ts=1&version=2.0&xuanting=0&dtm=BAIDU_DUP2_SETJSONADSLOT&dc=2&di=u1446549&ti=MSN%E4%B8%AD%E6%96%87%E7%BD%91%EF%BC%9A%E6%95%B0%E5%AD%97%E7%94%9F%E6%B4%BB%20%E7%99%BD%E9%A2%86%E9%97%A8%E6%88%B7%3B%20(MSN%E5%AE%98%E6%96%B9%E4%B8%8B%E8%BD%BD)&tt=1445393683571.468.577.577
+2015-10-20 10:55:21,952 Sending header: accept-language : zh-CN
+2015-10-20 10:55:21,952 Sending header: host : pos.baidu.com
+2015-10-20 10:55:21,952 Sending header: accept : image/jpeg, application/x-ms-application, image/gif, application/xaml+xml, image/pjpeg, application/x-ms-xbap, */*
+2015-10-20 10:55:21,953 Sending header: user-agent : Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)
+2015-10-20 10:55:21,953 Sending header: connection : Keep-Alive
+2015-10-20 10:55:21,953 Sending header: referer : http://cn.msn.com/?ocid=iehp
+2015-10-20 10:55:21,953 Sending header: cookie : BAIDUID=26760B206E1DC868B19AE77EF36A563B:FG=1; ISBID=26760B206E1DC868B19AE77EF36A563B:FG=1; ISUS=1; CPROID=26760B206E1DC868B19AE77EF36A563B:FG=1
+2015-10-20 10:55:21,966 Read from server:
+<!DOCTYPE html>
+<html><head>
+        <meta charset="utf-8" />
+        <title>百度推广</title>
+        <style type="text/css">
+            body{margin:0;padding:0;font-size:12px;font-family:arial,'宋体',\5b8b\4f53,sans-serif}body
+            *{margin:0;padding:0;font-size:100%}body em{font-style:normal}body ul,body
+            ol{list-style:none}body img{border:0}body .cur-item .item-img{-moz-background-clip:padding;-webkit-background-clip:padding-box;background-clip:padding-box}body
+            .clearfix:after{clear:both;content:'\20';height:0;display:block}body .clear{clear:both;height:0;line-height:0;font-size:0;visibility:hidden;overflow:hidden}body
+            .yahei{font-family:"microsoft yahei","微软雅黑E\8F6F\96C5\9ED1",Tahoma,Arial,Helvetica,STHeiti}body
+            .heiti{font-family:SimHei,STHeiti,"microsoft yahei","微软雅黑E\8F6F\96C5\9ED1",Tahoma,Arial,Helvetica}.s-hl-content{position:relative}.s-hl-content
+            .s-bd-logo{height:20px;width:100px;background:url('http://su.bdstatic.com/static/cun/img/bd_logo_78626fb5.png')
+            no-repeat left top;background-position:0 0}.s-hl-content .s-bd-logo:hover{background-position:0
+            -20px}.s-hl-content .s-bd-logo{text-decoration:none;cursor:pointer;display:block;overflow:hidden;position:absolute;bottom:0;right:0;z-index:2147483647}.s-hl-content
+            .s-bd-logo-small:hover{background-position:-70px 0;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true,src="http://su.bdstatic.com/static/cun/img/logo_border_dark_fe7d5068.png",sizingMethod="crop")}.s-hl-content
+            .s-bd-logo-small{position:absolute;cursor:pointer;bottom:0;right:0;height:18px;width:18px;background:url(http://su.bdstatic.com/static/cun/img/bd_logo2_fe7c9450.png)
+            no-repeat left top;background-position:0 0;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true,src="http://su.bdstatic.com/static/cun/img/logo_border_light_0f0bac10.png",sizingMethod="crop");_background:none;z-index:2147483647}
+        </style>
+        <script>
+            var ads = [{"bid":"","cbg":"","curl":"http://cpro.baidu.com/cpro/ui/uijs.php?adclass=0&app_id=0&c=news&cf=5&ch=0&di=8&fv=0&is_app=0&jk=47847572a18e6d08&k=%D6%D0%D1%EB%C3%C0%D4%BA%B8%BD%D6%D0&k0=%D6%D0%D1%EB%C3%C0%D4%BA%B8%BD%D6%D0&k1=%B7%A8%D4%BA%B3%F6%CA%DB%B6%FE%CA%D6%B3%B5&kdi0=8&kdi1=8&luki=1&n=10&p=baidu&q=08067099_1_cpr&rb=0&rs=1&seller_id=1&sid=86d8ea172758447&ssp2=1&stid=50&t=tpclicked3_hc&td=1446536&tu=u1446536&u=http%3A%2F%2Fcn%2Emsn%2Ecom%2F%3Focid%3Diehp&urlid=0","desc":"中央美院附中","dspw":"","height":90,"icon":1185,"image_url":"http://t11.baidu.com/it/u=1069463704,30023892&fm=76","isHb":"false","iss":0,"surl":"","title":"中央美院附中","type":"text","width":262,"word_src":"6","wp":0},{"bid":"","cbg":"","curl":"http://cpro.baidu.com/cpro/ui/uijs.php?adclass=0&app_id=0&c=news&cf=5&ch=0&di=8&fv=0&is_app=0&jk=47847572a18e6d08&k=%B7%A8%D4%BA%B3%F6%CA%DB%B6%FE%CA%D6%B3%B5&k0=%B7%A8%D4%BA%B3%F6%CA%DB%B6%FE%CA%D6%B3%B5&k1=%D6%D0%D1%EB%C3%C0%D4%BA%B8%BD%D6%D0&kdi0=8&kdi1=8&luki=2&n=10&p=baidu&q=08067099_1_cpr&rb=0&rs=1&seller_id=1&sid=86d8ea172758447&ssp2=1&stid=50&t=tpclicked3_hc&td=1446536&tu=u1446536&u=http%3A%2F%2Fcn%2Emsn%2Ecom%2F%3Focid%3Diehp&urlid=0","desc":"法院出售二手车","dspw":"","height":90,"icon":1548,"image_url":"http://t11.baidu.com/it/u=3580476937,138732925&fm=76","isHb":"false","iss":0,"surl":"","title":"法院出售二手车","type":"text","width":262,"word_src":"6","wp":0}]; 
+            var config = {"at":128,"aurl":"","cad":1,"conBW":0,"conOP":0,"hn":1,"imageRowCount":1,"itepl":0,"itepr":0,"lunum":6,"n":"08067099_1_cpr","rad":"","rankImgHeight":80,"rankImgStyle":3,"rankImgWidth":129,"rsi0":262,"rsi1":90,"rsi5":4,"rss0":"","rss1":"","rss2":"","rss3":"","rss4":"","rss6":"","rss7":"","scale":"","skin":"tabcloud_skin_1","temp_exp_flag":0,"titFS":14,"titTA":"left","titfip":0,"wn":2};
+            
+        </script>
+        <script>
+            var thisPage={iconArray:[],init:function(){this.ad=ads;this.iconArray=[];this.iconImgArray=[];this.lunboIndex=0;this.lunboIndexImg=0;this.lunboTime=2000;this.lunboImgTime=2500;this.lunboRankOpen=false;this.lunboImgOpen=false;this.switchFlag=true;this.switchImgFlag=true;this.container=document.getElementById("container");this.containerBorder=parseInt(config.conBW);this.containerBorderColor=config.rss0;this.containerBackgroundColor=config.rss1;if(!this.containerBorder&&(config.wn==1)){this.containerBorder=1;this.containerBorderColor="#eeeeee"}this.containerIsTransparent=config.conOP?true:false;this.containerPaddingTop=2;this.containerPaddingRight=0;this.containerPaddingBottom=0;this.containerPaddingLeft=0;this.containerWidth=parseInt(config.rsi0)-2*this.containerBorder-this.containerPaddingLeft-this.containerPaddingRight;this.containerHeight=parseInt(config.rsi1)-2*this.containerBorder-this.containerPaddingTop-this.containerPaddingBottom;this.titleFontColor="";this.titleFontSize=parseInt(config.titFS);this.titleFontFamily=decodeURIComponent(config.titFF)=="微软雅黑"?"Microsoft Yahei":"宋体,宋体";this.titleMinLineHeight=18;this.iconWidth=16;if(!config.imageRowCount){this.imageRowCount=1}else{this.imageRowCount=config.imageRowCount}this.adRowNum=config.hn-this.imageRowCount;this.adColumnNum=config.wn;this.picItemHeight=config.rankImgHeight;this.style=config.rankImgStyle;this.titleHeight=Math.max(this.titleMinLineHeight,this.titleFontSize+2);this.titleWidth=this.iconWidth+14*7+4;if(this.style==5){if((this.titleWidth+4)<config.rankImgWidth){this.titleWidth=(config.rankImgWidth-4)}}this.adjustSize();this.picMagin=0;this.picTitleColor="#fff";this.picTitleHeight=20;this.picContainerBottom=this.titleMarginBottom;this.picContainerAdd=0;this.picItemBorderWidth=2;this.picDivHeight=this.picItemHeight;this.picHeight=this.picItemHeight;if(this.style==3||this.style==4||this.style==5){this.picMagin=1;this.picTitleColor="#000";this.picTitleHeight=16;this.picDivHeight-=this.picTitleHeight;this.picContainerBottom=Math.floor(this.titleMarginBottom/2);this.picContainerAdd=(this.titleMarginBottom-this.picContainerBottom)/this.imageRowCount;if(this.picContainerAdd>35){this.picContainerAdd=35}this.picItemBorderWidth=1}this.picItemWidth=this.titleWidth-2*this.picItemBorderWidth;if(this.style==4){this.picHeight-=this.picTitleHeight}this.picItemHeight+=this.picContainerAdd;this.picHeight+=this.picContainerAdd;this.picDivHeight+=this.picContainerAdd;this.containerCssStr="width:{width}px;height:{height}px;border:{border}px solid {bordercolor};padding:{paddingtop}px {paddingright}px {paddingbottom}px {paddingleft}px;"},adjustSize:function(){this.titleMarginRight=Math.floor((this.containerWidth-this.titleWidth*this.adColumnNum)/(this.adColumnNum));if((this.adRowNum+this.imageRowCount)>1){this.titleMarginBottom=Math.floor((this.containerHeight-(this.picItemHeight+4)*this.imageRowCount-this.titleHeight*this.adRowNum)/(this.adRowNum+this.imageRowCount))}else{this.titleMarginBottom=this.containerHeight-this.picItemHeight*this.imageRowCount-4}if(this.style==5){if(this.adColumnNum==1){var a=this.containerWidth-this.titleWidth-10;if(a>50){this.titleWidth+=50}else{if(a>0){this.titleWidth+=a}}this.titleMarginRight=Math.floor((this.containerWidth-this.titleWidth*this.adColumnNum)/(this.adColumnNum))}}if(this.titleMarginBottom<=0){this.picItemHeight-=5;if((this.adRowNum+this.imageRowCount)>1){this.titleMarginBottom=Math.floor((this.containerHeight-(this.picItemHeight+4)*this.imageRowCount-this.titleHeight*this.adRowNum)/(this.adRowNum+this.imageRowCount))}else{this.titleMarginBottom=this.containerHeight-this.picItemHeight*this.imageRowCount-4}}},run:function(){this.dynamicClass();if(this.style==1||this.style==2||this.style==3||this.style==4||this.style==5){this.adjustDuplicateUrl()}var c=0;var d="";var a="";var h="";var g=this.adRowNum*this.adColumnNum+this.adColumnNum*this.imageRowCount;while(c<g){if(c<(this.adColumnNum*this.imageRowCount)){a+=e(this,c);if(c%this.adColumnNum!=this.adColumnNum-1){a+='<div class="pic_itemColumnSpace" ></div>'}}else{var j=c-this.adColumnNum*this.imageRowCount;var f=Math.floor(j/(this.adColumnNum))+(j%this.adColumnNum)*this.adRowNum+this.adColumnNum;if(f<this.ad.length){h+=k(this,f,c)}}c++}document.getElementById("pic-container").innerHTML=a;var b=document.getElementById("ranklist");b.innerHTML=h;this.iniIconArray();this.initEvents();this.autoPlay();this.autoPlayImg();function e(n,m){if(!n.ad[m].image_url||n.ad[m].image_url==""){n.ad[m].image_url="http://t12.baidu.com/it/u=357086549,3736292998&fm=58"}var l=2;if(n.style==3||n.style==4||n.style==5){l=0}var p=0;if(m<n.adColumnNum*(n.imageRowCount-1)){p=n.titleMarginBottom}var o='<div class="pic_item" style="width:'+(n.picItemWidth)+"px;height:"+(n.picItemHeight+l)+"px;margin-bottom:"+(p-n.picContainerAdd)+'px"><div class="pic" style="margin-left:'+n.picMagin+"px;margin-right:"+n.picMagin+"px;margin-top:"+n.picMagin+"px; overflow:hidden;width:"+(n.picItemWidth-n.picMagin*2)+"px;height:"+(n.picDivHeight-2-n.picMagin)+'px"><a  href="'+n.ad[m].curl+'" target="_blank"><img style=";width:'+(n.picItemWidth-n.picMagin*2)+"px;height:"+(n.picHeight-2-n.picMagin)+'px" src="'+n.ad[m].image_url+'"></a></div><div class="pic_title" title="'+n.ad[m].title+'"><a  href="'+n.ad[m].curl+'" target="_blank" title="">'+n.ad[m].title+"</a></div></div>";return o}function k(o,n,m){var l="";if((m+1)%o.adColumnNum==0){l="end_link"}var q="";if(n>=o.adColumnNum&&n<(o.adColumnNum+3)){q="icon-3"}var p='<a  class="link '+l+'" target="_blank" href="'+o.ad[n].curl+'" ><em class="icon '+q+' ">'+(n-o.adColumnNum+1)+'</em><em class="text" title="'+o.ad[n].title+'">'+o.ad[n].title+"</em></a>";return p}},dynamicClass:function(){this.addClass(".s-hl-content .bd-hl-tuwen .bd-hl-content {"+this.strTemplate(this.containerCssStr,{width:this.containerWidth,height:this.containerHeight,border:this.containerBorder+"",bordercolor:this.containerBorderColor,paddingtop:this.containerPaddingTop+"",paddingright:this.containerPaddingRight+"",paddingbottom:this.containerPaddingBottom+"",paddingleft:this.containerPaddingLeft+""})+"}");this.addClass(".pic_itemColumnSpace{width:"+this.titleMarginRight+"px}");this.addClass(".pic_title{width:"+(this.titleWidth-4)+"px;line-height:"+this.picTitleHeight+"px;height:"+this.picTitleHeight+"px;}");this.addClass(".pic-container{height:"+((this.picItemHeight+4+this.titleMarginBottom)*this.imageRowCount-this.titleMarginBottom)+"px}");this.addClass(".s-hl-content .bd-hl-content .ranklist .link .text{color:"+this.titleFontColor+"}");this.addClass(".s-hl-content .bd-hl-content .pic-container .pic_title a {color:"+this.picTitleColor+"}");this.addClass(".s-hl-content .bd-hl-content .pic_item .pic_title{font-size:14px;}");this.addClass(".link{width:"+this.titleWidth+"px;margin-right: "+this.titleMarginRight+"px;margin-bottom:"+(this.titleMarginBottom-2)+"px;margin-top:2px;}");this.addClass(".end_link{margin-right: 0px;}");this.addClass(".ranklist, .pic-container{padding-left:"+this.titleMarginRight/2+"px; padding-right:"+(this.titleMarginRight/2-2*this.adColumnNum)+"px}");this.addClass(".pic-container{margin-bottom:"+this.picContainerBottom+"px;}");this.addClass(".s-hl-content .bd-hl-content .pic-container .pic_item {border: "+this.picItemBorderWidth+"px solid #dddddd; float: left; overflow: hidden; position: relative;}");if(this.style==2||this.style==3||this.style==4||this.style==5){this.addClass(".s-hl-content .bd-hl-content .pic-container img.hover{-webkit-transition:-webkit-transform .5s ease-in;-moz-transition:-moz-transform .5s ease-in;-ms-transition:-ms-transform .5s ease-in;-o-transition:-o-transform .5s ease-in;transition:transform .5s ease-in;-webkit-transform:scale(1.1);-moz-transform:scale(1.1);-ms-transform:scale(1.1);-o-transform:scale(1.1);transform:scale(1.1)}")}if(this.style!=3&&(this.style!=4)&&(this.style!=5)){this.addClass(".s-hl-content .bd-hl-content .pic-container .pic_title{background:rgba(0, 0, 0, 0.65) ; filter:progid:DXImageTransform.Microsoft.Gradient(gradientType=1, startColorStr='#8D000000',endColorStr='#8D000000');")}},addClass:function(d){var e=document;var b=e.createElement("style");b.setAttribute("type","text/css");if(b.styleSheet){b.styleSheet.cssText=d}else{var a=e.createTextNode(d);b.appendChild(a)}var c=e.getElementsByTagName("head");if(c.length){c[0].appendChild(b)}else{e.documentElement.appendChild(b)}},strTemplate:function(c,b){var a=/{(.*?)}/g;return c.replace(a,function(f,e,d,g){return b[e]||""})},nextLuwords:function(){var b=Math.floor(this.lunboIndex/(this.adRowNum))+(this.lunboIndex%this.adRowNum)*this.adColumnNum;var a=this.iconArray[b];if(this.iconArray.length==1){if(this.switchFlag){this.switchFlag=false;this.setNormal(a);return}else{this.switchFlag=true;this.setHover(a);return}}this.setNormal(a);if(this.lunboIndex>=2||this.lunboIndex==this.iconArray.length-1){this.lunboIndex=0}else{this.lunboIndex=this.lunboIndex+1}b=Math.floor(this.lunboIndex/(this.adRowNum))+(this.lunboIndex%this.adRowNum)*this.adColumnNum;a=this.iconArray[b];this.setHover(a)},nextLuImgwords:function(){var a=this.iconImgArray[this.lunboIndexImg];if(this.iconImgArray.length==1){if(this.switchImgFlag){this.setNormal(a);this.switchImgFlag=false;return}else{this.switchImgFlag=true;this.setHover(a);return}}this.setNormal(a);if(this.lunboIndexImg>=2||this.lunboIndexImg==this.iconImgArray.length-1){this.lunboIndexImg=0}else{this.lunboIndexImg=this.lunboIndexImg+1}a=this.iconImgArray[this.lunboIndexImg];this.setHover(a)},autoPlay:function(){if(!this.lunboRankOpen){return}if(this.iconArray.length==0){return}This=this;var b=Math.floor(this.lunboIndex/(this.adRowNum))+(this.lunboIndex%this.adRowNum)*this.adColumnNum;var a=this.iconArray[b];this.setHover(a);this.lunboTimer=setInterval(function(){This.nextLuwords()},this.lunboTime)},autoPlayImg:function(){if(!this.lunboImgOpen){return}if(this.iconImgArray.length>0){this.setHover(this.iconImgArray[this.lunboIndexImg]);This=this;this.lunboImgTimer=setInterval(function(){This.nextLuImgwords()},this.lunboImgTime)}},setHover:function(b){var a=b.className||"";if(a.indexOf("pic_item")!==-1){b.firstChild.style.opacity="0.85";b.firstChild.style.filter="alpha(opacity=85)";b.lastChild.style.fontWeight="bold";b.style.borderColor="#ffc866";b.firstChild.firstChild.firstChild.className="hover"}else{b.style.backgroundColor="#D14836";b.lastChild.style.color="#ffffff";b.firstChild.style.color="#ffffff"}},setNormal:function(b){var a=b.className||"";if(a.indexOf("pic_item")!==-1){b.firstChild.style.opacity="1";b.firstChild.style.filter="alpha(opacity=100)";b.lastChild.style.fontWeight="normal";b.style.borderColor="#dddddd";b.firstChild.firstChild.firstChild.className=""}else{b.style.backgroundColor="";b.lastChild.style.color="";b.firstChild.style.color=""}},iniIconArray:function(){var a=document.getElementById("ranklist");this.iconArray=new Array();for(var c=0;c<a.children.length&&c<ads.length-this.adColumnNum;c++){var e=a.children[c];this.iconArray.push(e)}var b=document.getElementById("pic-container");this.iconImgArray=new Array();for(var c=0;c<b.children.length;c++){var e=b.children[c];var d=e.className||"";if(d.indexOf("pic_itemColumnSpace")===-1){this.iconImgArray.push(e)}}},initEvents:function(){var a=document.getElementById("bd-hl-content");a.onmouseover=function(g){clearInterval(thisPage.lunboTimer);clearInterval(thisPage.lunboImgTimer);if(thisPage.iconArray.length>0){sortIndex=Math.floor(thisPage.lunboIndex/(thisPage.adRowNum))+(thisPage.lunboIndex%thisPage.adRowNum)*thisPage.adColumnNum;var d=thisPage.iconArray[sortIndex];thisPage.setNormal(d)}if(thisPage.iconImgArray.length>0){thisPage.setNormal(thisPage.iconImgArray[thisPage.lunboIndexImg])}g=g||window.event;var f=g.target||g.srcElement;var b=f;while(b&&b.parentNode){var c=b.className||"";if(c.indexOf("link")!==-1||c.indexOf("pic_item")!==-1&&c.indexOf("pic_itemColumnSpace")===-1){break}b=b.parentNode}if(!b||!b.className||(b.className.indexOf("link")===-1&&b.className.indexOf("pic_item")===-1)){return}thisPage.setHover(b)};a.onmouseout=function(f){f=f||window.event;var d=f.target||f.srcElement;var b=d;while(b&&b.parentNode){var c=b.className||"";if(c.indexOf("link")!==-1||c.indexOf("pic_item")!==-1&&c.indexOf("pic_itemColumnSpace")===-1){break}b=b.parentNode}if(!b||!b.className||(b.className.indexOf("link")===-1&&b.className.indexOf("pic_item")===-1)){thisPage.autoPlay();thisPage.autoPlayImg();return}thisPage.setNormal(b);thisPage.autoPlay();thisPage.autoPlayImg()}},adjustDuplicateUrl:function(){var f=this.ad;var b=[];var a=[];for(var e=0;e<f.length;e++){var g=false;if(!f[e].image_url||f[e].image_url==""){g=true}else{for(var d=0;d<b.length;d++){if(b[d].image_url==f[e].image_url){g=true;break}}}if(!g){b.push(f[e])}else{a.push(f[e])}if(b.length>=this.adColumnNum){break}}b=b.concat(a);for(var c=b.length;c<f.length;c++){b.push(f[c])}this.ad=b}};thisPage.init();
+        </script>
+</head>
+    <body><div style="display:none;"><img src="http://wn.pos.baidu.com/adx.php?c=d25pZD0wODZkOGVhMTcyNzU4NDQ3AHM9MDg2ZDhlYTE3Mjc1ODQ0NwB0PTE0NDUzOTM2ODMAc2U9MQBidT00AHByaWNlPVZpYjFFd0FHV0paN2pFcGdXNUlBOG9fT09XTktaR0xSdmxtTzRnAGNoYXJnZV9wcmljZT1WaWIxRXdBR1dKWjdqRXBnVzVJQThvX09PV05LWkdMUnZsbU80ZwBzaGFyaW5nX3ByaWNlPVZpYjFFd0FHV0paN2pFcGdXNUlBOG9fT09XTktaR0xSdmxtTzRnAHdpbl9kc3A9NABjaG1kPTEAYmRpZD0yNjc2MEIyMDZFMURDODY4QjE5QUU3N0VGMzZBNTYzQgBjcHJvaWQ9MjY3NjBCMjA2RTFEQzg2OEIxOUFFNzdFRjM2QTU2M0IAYmNobWQ9MAB2PTEAaT1hMTY2ZTcwMg"  height="1px" width="1px" alt="" /></div>
+        <div class="s-hl-content">
+            <style type="text/css">
+                .s-hl-content .bd-hl-tuwen{color:#000;border:0px
+                solid #CCC;position:relative}.s-hl-content .bd-hl-title{margin:15px 0 0
+                15px;font-size:18px;width:198px;height:28px;border-bottom:1px solid #CCC}.s-hl-content
+                .bd-hl-title .icon,.s-hl-content .bd-hl-title .title{float:left}.s-hl-content
+                .bd-hl-title .icon{background-color:#388bff;width:5px;height:18px;overflow:hidden}.s-hl-content
+                .bd-hl-title .title{line-height:24px;padding-left:10px;height:24px}.s-hl-content
+                .bd-hl-title .title em{height:24px;display:block;margin-top:-3px;_margin-top:-2px}.s-hl-content
+                .bd-hl-content{margin:10px 0 0 15px;font-size:12px;overflow:hidden}.s-hl-content .bd-hl-content .ranklist
+                .link{border:0 none;display:block;float:left;cursor:pointer;overflow:hidden}.s-hl-content
+                .bd-hl-content .ranklist .link .text{overflow:hidden;display:block;height:18px;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;-o-text-overflow:ellipsis}.s-hl-content
+                .bd-hl-content,.s-hl-content .bd-hl-content a,.s-hl-content .bd-hl-content
+                a:hover,.s-hl-content .bd-hl-content a:visited,.s-hl-content .bd-hl-content
+                a:link{color:#000}.s-hl-content .bd-hl-content a{text-decoration:none}.s-hl-content .bd-hl-content
+                .type{color:#999}.s-hl-content .bd-hl-content .icon{font-style:normal;font-family:Arial;font-size:12px;display:inline-block;width:14px;height:18px;line-height:18px;text-align:center;margin-right:3px}.s-hl-content
+                .bd-hl-content .icon-3{color: #D14836;}.s-hl-content .bd-hl-content
+                .icon,.s-hl-content .bd-hl-content .link .text,.s-hl-content .bd-hl-content
+                .type{display:block}.s-hl-content .bd-hl-content .icon,.s-hl-content .bd-hl-content
+                .link{float:left}.s-hl-content .bd-hl-content .type{float:right}.s-hl-content
+                .bd-hl-content .pic-container{padding-top:0;padding-bottom:0;border-style:solid;border-top-width:0;border-right-width:0;border-bottom-width:0;border-left-width:0;border-color:#fff;background-color:#fff;position:relative;overflow:hidden}.s-hl-content
+                .bd-hl-content .pic-container .pic{text-align:center;}                
+                .s-hl-content
+                .bd-hl-content .pic-container .pic_title{padding-left:0px;padding-right:0px;padding-top:0;padding-bottom:0;overflow:hidden;font-family:宋体;text-align:center;color:#fff;text-decoration:none;font-weight:normal;position:absolute;bottom:0;left:0}.s-hl-content
+                .bd-hl-content .pic-container .pic_title a{ position:relative;z-index:999;}.s-hl-content .bd-hl-content
+                .pic-container .pic_itemColumnSpace{height:40px;float:left;overflow:hidden;margin-top:0;margin-bottom:0}
+            </style>
+            <style>
+                .s-hl-content .bd-hl-title{background-color:#FFF}.s-hl-content .bd-hl-title
+                .title{ font-family:"microsoft yahei","微软雅黑E\8F6F\96C5\9ED1",Tahoma,Arial,Helvetica,STHeiti;font-size:
+                18px;font-weight:normal;color:#000}.s-hl-content
+                .bd-hl-content{position:relative; margin:0px;font-family:宋体;font-size: 12px;font-weight:normal}.s-hl-content
+                .bd-hl-content .link{font-family:宋体;font-size: 14px;font-weight:normal}.s-hl-content
+                .bd-hl-tuwen{background-color:#FFF}.s-hl-content .bd-hl-tuwen{border-color:#CCC}
+
+            </style>
+            <style>
+                .bd-logo2{text-decoration:none;cursor:pointer;display:block;overflow:hidden;position:absolute;bottom:0;right:0;z-index:2147483647}.bd-logo2{margin:0 2px 2px 0;height:14px;width:13px;background:url(http://cpro.baidustatic.com/cpro/ui/noexpire/img/2.0.1/bg.png) no-repeat left top;background-position:0 -20px;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true,src="http://cpro.baidustatic.com/cpro/ui/noexpire/img/2.0.1/logo-noborder-light.png",sizingMethod="crop");_background:0}.bd-logo2:hover{background-position:0 -35px;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true,src="http://cpro.baidustatic.com/cpro/ui/noexpire/img/2.0.1/logo-noborder-dark.png",sizingMethod="crop")}
+                
+            
+            </style>
+            <div class="bd-hl-tuwen" id="bd_hl_tuwen">
+                <div id="bd-hl-content" class="bd-hl-content">
+                    
+                    <div id="pic-container" class="pic-container">
+                        
+                    </div>
+                    
+                    <div id="ranklist" class="ranklist">
+                        
+                        <div class="clear">
+                        </div>
+                    </div>
+                    <a class="bd-logo2" target="_blank" href="http://wangmeng.baidu.com/" title="百度网盟推广" style="zoom: 1;">&nbsp;</a>
+                </div>
+                
+            </div>
+        </div>
+
+    </body>    
+<script>thisPage.run()</script>
+<script>
+var jsUrl='http://cpro.baidustatic.com/cpro/ui/noexpire/js/3.1.6/closefeedback.min.js';
+var bdUserPreferenceExpFlag=1;var preferenceInfo="czE9MTQxMzk3NjY1AXMyPTE5MjAzMDQxOTkBcmVxdXJsPWh0dHAlM0ElMkYlMkZjbiUyRW1zbiUyRWNvbSUyRiUzRm9jaWQlM0RpZWhwAWNudG49MDgwNjcwOTlfMV9jcHIBdHU9dTE0NDY1MzYBaXA9MzMxODY0Njk2NAFjcmM9MjEwMTg1ODgzMQ==";var bdUserPreferenceReason=[{"id":5,"name":"视觉干扰","type":0},{"id":6,"name":"内容不宜","type":0},{"id":7,"name":"不感兴趣","type":0},{"id":8,"name":"其它","type":0},{"id":1005,"name":"视觉干扰","type":1},{"id":1006,"name":"内容不宜","type":1},{"id":1007,"name":"不感兴趣","type":1},{"id":1008,"name":"其它","type":1}]||[];var loadJs=function(f,e){var h=document.createElement("script");h.onload=function(){e()};h.onreadystatechange=function(){/loaded|complete/.test(h.readyState)&&e()};h.src=f;var g=document.getElementsByTagName("script")[0];g.parentNode.insertBefore(h,g)};window.onload=function(){if(bdUserPreferenceExpFlag){loadJs(jsUrl,function(){})}}
+</script>
+<style>
+#closeBtn{background-size:100% 100%; margin:0 2px 2px 0;}
+#closeBtn:hover{background-size:100% 100%;}
+</style>
+</html>
+    
+
+2015-10-20 10:55:21,975 HTTP connection made.
+2015-10-20 10:55:21,976 Sending Request: GET /main/adfshow?user=MSN|RichMedia|Homepage_RichMedia_1x1&db=msn&border=0&local=yes&js=ie
+2015-10-20 10:55:21,976 Sending header: accept-language : zh-CN
+2015-10-20 10:55:21,976 Sending header: host : msn.qtmojo.com
+2015-10-20 10:55:21,976 Sending header: accept : */*
+2015-10-20 10:55:21,976 Sending header: user-agent : Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)
+2015-10-20 10:55:21,976 Sending header: connection : Keep-Alive
+2015-10-20 10:55:21,976 Sending header: referer : http://cn.msn.com/?ocid=iehp
+2015-10-20 10:55:21,976 Sending header: cookie : uid=COKPs2U6b2A5yGI3nHX
+2015-10-20 10:55:21,977 HTTP connection made.
+2015-10-20 10:55:21,977 Sending Request: GET /main/adfshow?user=MSN|RichMedia|Homepage_Richmedia_backup_1X1&db=msn&border=0&local=yes&js=ie
+2015-10-20 10:55:21,977 Sending header: accept-language : zh-CN
+2015-10-20 10:55:21,977 Sending header: host : msn.qtmojo.com
+2015-10-20 10:55:21,977 Sending header: accept : */*
+2015-10-20 10:55:21,977 Sending header: user-agent : Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)
+2015-10-20 10:55:21,977 Sending header: connection : Keep-Alive
+2015-10-20 10:55:21,977 Sending header: referer : http://cn.msn.com/?ocid=iehp
+2015-10-20 10:55:21,977 Sending header: cookie : uid=COKPs2U6b2A5yGI3nHX
+2015-10-20 10:55:21,979 HTTP connection made.
+2015-10-20 10:55:21,980 Sending Request: GET /main/adfshow?user=MSN|Home_Page|Homepage_4th_Banner_980X90&db=msn&border=0&local=yes
+2015-10-20 10:55:21,980 Sending header: accept-language : zh-CN
+2015-10-20 10:55:21,980 Sending header: host : msn.qtmojo.com
+2015-10-20 10:55:21,980 Sending header: accept : image/jpeg, application/x-ms-application, image/gif, application/xaml+xml, image/pjpeg, application/x-ms-xbap, */*
+2015-10-20 10:55:21,980 Sending header: user-agent : Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)
+2015-10-20 10:55:21,980 Sending header: connection : Keep-Alive
+2015-10-20 10:55:21,980 Sending header: referer : http://cn.msn.com/?ocid=iehp
+2015-10-20 10:55:21,980 Sending header: cookie : uid=COKPs2U6b2A5yGI3nHX
+2015-10-20 10:55:21,984 HTTP connection made.
+2015-10-20 10:55:21,984 Sending Request: GET /main/adfshow?user=MSN|Home_Page|Homepage_bottom_Banner_980X90&db=msn&border=0&local=yes
+2015-10-20 10:55:21,984 Sending header: accept-language : zh-CN
+2015-10-20 10:55:21,984 Sending header: host : msn.qtmojo.com
+2015-10-20 10:55:21,985 Sending header: accept : image/jpeg, application/x-ms-application, image/gif, application/xaml+xml, image/pjpeg, application/x-ms-xbap, */*
+2015-10-20 10:55:21,985 Sending header: user-agent : Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)
+2015-10-20 10:55:21,985 Sending header: connection : Keep-Alive
+2015-10-20 10:55:21,985 Sending header: referer : http://cn.msn.com/?ocid=iehp
+2015-10-20 10:55:21,985 Sending header: cookie : uid=COKPs2U6b2A5yGI3nHX
+2015-10-20 10:55:21,989 Resolving host: msn.wrating.com
+2015-10-20 10:55:21,989 Host not cached.
+2015-10-20 10:55:21,990 HTTP connection made.
+2015-10-20 10:55:21,990 Sending Request: GET /main/adfshow?user=MSN|RichMedia|HomePage_Backprojection_750X500&db=msn&border=0&local=yes
+2015-10-20 10:55:21,990 Sending header: accept-language : zh-CN
+2015-10-20 10:55:21,990 Sending header: host : msn.qtmojo.com
+2015-10-20 10:55:21,990 Sending header: accept : image/jpeg, application/x-ms-application, image/gif, application/xaml+xml, image/pjpeg, application/x-ms-xbap, */*
+2015-10-20 10:55:21,990 Sending header: user-agent : Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)
+2015-10-20 10:55:21,991 Sending header: connection : Keep-Alive
+2015-10-20 10:55:21,991 Sending header: referer : http://cn.msn.com/?ocid=iehp
+2015-10-20 10:55:21,991 Sending header: cookie : uid=COKPs2U6b2A5yGI3nHX
+2015-10-20 10:55:22,027 Got server response: HTTP/1.1 200 OK
+2015-10-20 10:55:22,027 Got server header: Date:Wed, 21 Oct 2015 02:14:43 GMT
+2015-10-20 10:55:22,027 Got server header: Server:Apache
+2015-10-20 10:55:22,028 Got server header: P3P:CP="OTI PSA OUR"
+2015-10-20 10:55:22,028 Got server header: Expires:-1
+2015-10-20 10:55:22,028 Got server header: Content-Length:86
+2015-10-20 10:55:22,028 Got server header: Connection:close
+2015-10-20 10:55:22,028 Got server header: Content-Type:text/html
+2015-10-20 10:55:22,028 Read from server:
+document.write("<SCRIPT LANGUAGE=\"Javascript\">\n");
+document.write("</SCR"+"IPT>");
+
+2015-10-20 10:55:22,029 Got server response: HTTP/1.1 200 OK
+2015-10-20 10:55:22,029 Got server header: Date:Wed, 21 Oct 2015 02:14:43 GMT
+2015-10-20 10:55:22,029 Got server header: Server:Apache
+2015-10-20 10:55:22,029 Got server header: P3P:CP="OTI PSA OUR"
+2015-10-20 10:55:22,029 Got server header: Expires:-1
+2015-10-20 10:55:22,029 Got server header: Content-Length:86
+2015-10-20 10:55:22,029 Got server header: Connection:close
+2015-10-20 10:55:22,029 Got server header: Content-Type:text/html
+2015-10-20 10:55:22,030 Read from server:
+document.write("<SCRIPT LANGUAGE=\"Javascript\">\n");
+document.write("</SCR"+"IPT>");
+
+2015-10-20 10:55:22,030 Got server response: HTTP/1.1 200 OK
+2015-10-20 10:55:22,030 Got server header: Date:Wed, 21 Oct 2015 02:14:43 GMT
+2015-10-20 10:55:22,030 Got server header: Server:Apache
+2015-10-20 10:55:22,030 Got server header: P3P:CP="OTI PSA OUR"
+2015-10-20 10:55:22,030 Got server header: Expires:-1
+2015-10-20 10:55:22,030 Got server header: Content-Length:1075
+2015-10-20 10:55:22,030 Got server header: Connection:close
+2015-10-20 10:55:22,030 Got server header: Content-Type:text/html
+2015-10-20 10:55:22,030 Read from server:
+<html><head><meta http-equiv="cache-control" content="no-cache"></head><body style="BACKGROUND-COLOR:transparent"><SCRIPT LANGUAGE="Javascript">
+ADFHOST178118="http://msn.qtmojo.com";
+ADFCID178118=1767;
+ADFBID178118=178118;
+ADFLOC='CNGXNN';
+ADFUSER178118="http://msn.qtmojo.com/main/adfclick?d=msn-0&i=z1767,2622131,178118,1192115&k=&p=0&v=1445393683.651&wl=&rf=http%3A%2F%2Fcn%2Emsn%2Ecom%2F%3Focid~~iehp&u=http://www.ef.com.cn/online/lp/cn/2014yr/ee/master-template.aspx?ctr=cn&lng=cs&ptn=mscn&etag=E128975";
+</SCRIPT><SCRIPT LANGUAGE="Javascript"> 
+document.write("<a href=" + ADFUSER178118 +" target=\"_blank\" style=\"position:relative;display:inline-block;_display:inline;width:980px;height:90px;border:none;overflow:hidden;\"><img src=\"http://msnms.qtmojo.cn/msnms/2015/20150720/980x90.jpg\" border=\"0\" width=\"980\" height=\"90\"><i style=\"position:absolute;left:0;bottom:0;width:29px;height:16px;line-height:16px;font-size:0;border:none;margin:0;padding:0;z-index:1;background:url(http://creatim.qtmojo.cn/adwarning.png) 0 0 no-repeat\"></i></a>\n");
+</SCRIPT>
+2015-10-20 10:55:22,034 Resolved host successfully: msn.wrating.com -> 218.30.84.62
+2015-10-20 10:55:22,034 Sending request via HTTP...
+2015-10-20 10:55:22,035 Got server response: HTTP/1.1 200 OK
+2015-10-20 10:55:22,035 Got server header: Date:Wed, 21 Oct 2015 02:14:43 GMT
+2015-10-20 10:55:22,035 Got server header: Server:Apache
+2015-10-20 10:55:22,035 Got server header: P3P:CP="OTI PSA OUR"
+2015-10-20 10:55:22,036 Got server header: Expires:-1
+2015-10-20 10:55:22,036 Got server header: Content-Length:756
+2015-10-20 10:55:22,036 Got server header: Connection:close
+2015-10-20 10:55:22,036 Got server header: Content-Type:text/html
+2015-10-20 10:55:22,036 Read from server:
+<html><head><meta http-equiv="cache-control" content="no-cache"></head><body style="BACKGROUND-COLOR:transparent"><SCRIPT LANGUAGE="Javascript">
+ADFHOST177993="http://msn.qtmojo.com";
+ADFCID177993=2047;
+ADFBID177993=177993;
+ADFUSER177993="http://msn.qtmojo.com/main/adfclick?d=msn-0&i=z2047,2617232,177993,1187550&k=&p=0&v=1445393683.468&wl=&rf=http%3A%2F%2Fcn%2Emsn%2Ecom%2F%3Focid~~iehp&u=";
+</SCRIPT><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- msn-97090-01 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:970px;height:90px"
+     data-ad-client="ca-pub-1372770613319842"
+     data-ad-slot="9615188818"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+2015-10-20 10:55:22,037 Resolving host: msn.qtmojo.com
+2015-10-20 10:55:22,037 Host cached.
+2015-10-20 10:55:22,037 Resolved host successfully: msn.qtmojo.com -> 118.26.144.27
+2015-10-20 10:55:22,037 Sending request via HTTP...
+2015-10-20 10:55:22,039 Got server response: HTTP/1.1 200 OK
+2015-10-20 10:55:22,039 Got server header: Date:Wed, 21 Oct 2015 02:14:43 GMT
+2015-10-20 10:55:22,039 Got server header: Server:Apache
+2015-10-20 10:55:22,039 Got server header: P3P:CP="OTI PSA OUR"
+2015-10-20 10:55:22,039 Got server header: Expires:-1
+2015-10-20 10:55:22,039 Got server header: Content-Length:43
+2015-10-20 10:55:22,039 Got server header: Connection:close
+2015-10-20 10:55:22,039 Got server header: Content-Type:text/html
+2015-10-20 10:55:22,040 Read from server:
+<body style="BACKGROUND-COLOR:transparent">
+2015-10-20 10:55:22,062 Resolving host: dimgcn3.s-msn.com
+2015-10-20 10:55:22,062 Host not cached.
+2015-10-20 10:55:22,071 HTTP connection made.
+2015-10-20 10:55:22,071 Sending Request: GET /a.gif?a=150882d56c3&t=&i=-5b80b033.1507f7c28b7.0.18861c797ee518&b=http%3A//cn.msn.com/%3Focid%3Diehp&c=860010-0208010400&s=1440x900x32&l=zh-cn&z=8&j=1&f=-&ut=11&n=&js=&ck=1
+2015-10-20 10:55:22,071 Sending header: accept-language : zh-CN
+2015-10-20 10:55:22,071 Sending header: host : msn.wrating.com
+2015-10-20 10:55:22,071 Sending header: accept : */*
+2015-10-20 10:55:22,071 Sending header: user-agent : Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)
+2015-10-20 10:55:22,071 Sending header: connection : Keep-Alive
+2015-10-20 10:55:22,071 Sending header: referer : http://cn.msn.com/?ocid=iehp
+2015-10-20 10:55:22,071 Sending header: cookie : vjsid=O6+TbVYkupCxi2gHKqD7Ag==; cna=6K6rDioEJ0ICAbSIzsW34k+4
+2015-10-20 10:55:22,085 HTTP connection made.
+2015-10-20 10:55:22,085 Sending Request: GET /main/adfshow?user=MSN|Home_Page|Home_Page_Rectangle2_300X250&db=msn&border=0&local=yes
+2015-10-20 10:55:22,085 Sending header: accept-language : zh-CN
+2015-10-20 10:55:22,085 Sending header: host : msn.qtmojo.com
+2015-10-20 10:55:22,086 Sending header: accept : image/jpeg, application/x-ms-application, image/gif, application/xaml+xml, image/pjpeg, application/x-ms-xbap, */*
+2015-10-20 10:55:22,086 Sending header: user-agent : Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)
+2015-10-20 10:55:22,086 Sending header: connection : Keep-Alive
+2015-10-20 10:55:22,086 Sending header: referer : http://cn.msn.com/?ocid=iehp
+2015-10-20 10:55:22,086 Sending header: cookie : uid=COKPs2U6b2A5yGI3nHX
+2015-10-20 10:55:22,107 Resolved host successfully: dimgcn3.s-msn.com -> 222.216.188.95
+2015-10-20 10:55:22,108 Sending request via HTTP...
+2015-10-20 10:55:22,108 Got server response: HTTP/1.1 204 No Content
+2015-10-20 10:55:22,108 Got server header: Server:DWS/1.5.2
+2015-10-20 10:55:22,108 Got server header: Date:Wed, 21 Oct 2015 02:14:43 GMT
+2015-10-20 10:55:22,108 Got server header: Connection:keep-alive
+2015-10-20 10:55:22,109 Got server header: Cache-Control:no-cache
+2015-10-20 10:55:22,109 Got server header: pragma:no-cache
+2015-10-20 10:55:22,112 Got server response: HTTP/1.0 200 OK
+2015-10-20 10:55:22,112 Got server header: Cache-Control:post-check=0, pre-check=0
+2015-10-20 10:55:22,112 Got server header: Content-Length:26550
+2015-10-20 10:55:22,112 Got server header: Content-Type:text/html
+2015-10-20 10:55:22,112 Got server header: Date:Wed, 21 Oct 2015 02:14:43 GMT
+2015-10-20 10:55:22,112 Got server header: Expires:Mon, 26 Jul 1997 05:00:00 GMT
+2015-10-20 10:55:22,112 Got server header: Last-Modified:Wed Oct 21 10:14:43 2015
+2015-10-20 10:55:22,112 Got server header: P3p:CP=" OTI DSP COR IVA OUR IND COM "
+2015-10-20 10:55:22,112 Got server header: Pragma:no-cache
+2015-10-20 10:55:22,112 Got server header: Server:nginx
+2015-10-20 10:55:22,116 HTTP connection made.
+2015-10-20 10:55:22,116 Sending Request: GET /imageadapter/w107h107q85/stimgcn4.s-msn.com/msnportal/hp/2015/10/12/2e4dadcdb80fe6cf875ecea504f2c32e.jpg
+2015-10-20 10:55:22,116 Sending header: connection : Keep-Alive
+2015-10-20 10:55:22,116 Sending header: accept-language : zh-CN
+2015-10-20 10:55:22,116 Sending header: referer : http://cn.msn.com/?ocid=iehp
+2015-10-20 10:55:22,116 Sending header: host : dimgcn3.s-msn.com
+2015-10-20 10:55:22,116 Sending header: accept : */*
+2015-10-20 10:55:22,116 Sending header: user-agent : Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)
+2015-10-20 10:55:22,125 Got server response: HTTP/1.1 200 OK
+2015-10-20 10:55:22,125 Got server header: Expires:Thu, 05 Nov 2015 02:07:52 GMT
+2015-10-20 10:55:22,125 Got server header: Date:Wed, 21 Oct 2015 02:14:43 GMT
+2015-10-20 10:55:22,125 Got server header: Cache-Control:max-age=1296000
+2015-10-20 10:55:22,125 Got server header: Content-Length:4271
+2015-10-20 10:55:22,125 Got server header: Content-Type:image/jpeg
+2015-10-20 10:55:22,125 Response is image content, not scanning...
+2015-10-20 10:55:22,125 Got server header: HN:IMGV02
+2015-10-20 10:55:22,125 Got server header: Age:1
+2015-10-20 10:55:22,126 Got server header: X-Via:1.1 chzh120:8080 (Cdn Cache Server V2.0), 1.1 gxnndx29:0 (Cdn Cache Server V2.0)
+2015-10-20 10:55:22,126 Got server header: X-Cdn-Info:222.216.188.29-ChinaNetCenter
+2015-10-20 10:55:22,126 Got server header: Connection:keep-alive
+2015-10-20 10:55:22,132 Resolving host: stjscn.s-msn.com
+2015-10-20 10:55:22,132 Host cached.
+2015-10-20 10:55:22,132 Resolved host successfully: stjscn.s-msn.com -> 222.216.188.94
+2015-10-20 10:55:22,132 Sending request via HTTP...
+2015-10-20 10:55:22,134 Resolving host: bj1.api.bing.com
+2015-10-20 10:55:22,134 Host not cached.
+2015-10-20 10:55:22,135 Got server response: HTTP/1.1 200 OK
+2015-10-20 10:55:22,135 Got server header: Date:Wed, 21 Oct 2015 02:14:44 GMT
+2015-10-20 10:55:22,135 Got server header: Server:Apache
+2015-10-20 10:55:22,135 Got server header: P3P:CP="OTI PSA OUR"
+2015-10-20 10:55:22,135 Got server header: Expires:-1
+2015-10-20 10:55:22,135 Got server header: Content-Length:758
+2015-10-20 10:55:22,135 Got server header: Connection:close
+2015-10-20 10:55:22,135 Got server header: Content-Type:text/html
+2015-10-20 10:55:22,135 Read from server:
+<html><head><meta http-equiv="cache-control" content="no-cache"></head><body style="BACKGROUND-COLOR:transparent"><SCRIPT LANGUAGE="Javascript">
+ADFHOST177992="http://msn.qtmojo.com";
+ADFCID177992=1831;
+ADFBID177992=177992;
+ADFUSER177992="http://msn.qtmojo.com/main/adfclick?d=msn-0&i=z1831,2617363,177992,1187552&k=&p=0&v=1445393684.787&wl=&rf=http%3A%2F%2Fcn%2Emsn%2Ecom%2F%3Focid~~iehp&u=";
+</SCRIPT><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- msn-300250-01 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-1372770613319842"
+     data-ad-slot="8138455613"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+2015-10-20 10:55:22,140 HTTP connection made.
+2015-10-20 10:55:22,140 Sending Request: GET /portal/hp/2015/807.html?jaskdjfxxx
+2015-10-20 10:55:22,140 Sending header: accept-language : zh-CN
+2015-10-20 10:55:22,140 Sending header: host : stjscn.s-msn.com
+2015-10-20 10:55:22,140 Sending header: accept : image/jpeg, application/x-ms-application, image/gif, application/xaml+xml, image/pjpeg, application/x-ms-xbap, */*
+2015-10-20 10:55:22,140 Sending header: user-agent : Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)
+2015-10-20 10:55:22,140 Sending header: connection : Keep-Alive
+2015-10-20 10:55:22,141 Sending header: referer : http://cn.msn.com/?ocid=iehp
+2015-10-20 10:55:22,141 Sending header: if-none-match : "796741aa7dd01:0"
+2015-10-20 10:55:22,148 Got server response: HTTP/1.0 304 Not Modified
+2015-10-20 10:55:22,148 Got server header: Date:Wed, 21 Oct 2015 02:14:43 GMT
+2015-10-20 10:55:22,148 Got server header: Content-Type:text/html
+2015-10-20 10:55:22,148 Got server header: Last-Modified:Thu, 23 Apr 2015 09:43:50 GMT
+2015-10-20 10:55:22,149 Got server header: ETag:"796741aa7dd01:0"
+2015-10-20 10:55:22,149 Got server header: Cache-Control:max-age=3600
+2015-10-20 10:55:22,149 Got server header: Age:264
+2015-10-20 10:55:22,149 Got server header: X-Via:1.0 gxnndx23:5 (Cdn Cache Server V2.0)
+2015-10-20 10:55:22,149 Got server header: X-Cdn-Info:222.216.188.23-ChinaNetCenter
+2015-10-20 10:55:22,149 Got server header: Connection:keep-alive
+2015-10-20 10:55:22,153 Read from server:
+<!DOCTYPE html>
+<html><head>
+        <meta charset="utf-8" />
+        <title>百度推广</title>
+        <style type="text/css">
+            body{margin:0;padding:0;font-size:12px;font-family:arial,'宋体',\5b8b\4f53,sans-serif}body
+            *{margin:0;padding:0;font-size:100%}body em{font-style:normal}body ul,body
+            ol{list-style:none}body img{border:0}body .cur-item .item-img{-moz-background-clip:padding;-webkit-background-clip:padding-box;background-clip:padding-box}body
+            .clearfix:after{clear:both;content:'\20';height:0;display:block}body .clear{clear:both;height:0;line-height:0;font-size:0;visibility:hidden;overflow:hidden}body
+            .yahei{font-family:"microsoft yahei","微软雅黑E\8F6F\96C5\9ED1",Tahoma,Arial,Helvetica,STHeiti}body
+            .heiti{font-family:SimHei,STHeiti,"microsoft yahei","微软雅黑E\8F6F\96C5\9ED1",Tahoma,Arial,Helvetica}.s-hl-content{position:relative}.s-hl-content
+            .s-bd-logo{height:20px;width:100px;background:url('http://su.bdstatic.com/static/cun/img/bd_logo_78626fb5.png')
+            no-repeat left top;background-position:0 0}.s-hl-content .s-bd-logo:hover{background-position:0
+            -20px}.s-hl-content .s-bd-logo{text-decoration:none;cursor:pointer;display:block;overflow:hidden;position:absolute;bottom:0;right:0;z-index:2147483647}.s-hl-content
+            .s-bd-logo-small:hover{background-position:-70px 0;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true,src="http://su.bdstatic.com/static/cun/img/logo_border_dark_fe7d5068.png",sizingMethod="crop")}.s-hl-content
+            .s-bd-logo-small{position:absolute;cursor:pointer;bottom:0;right:0;height:18px;width:18px;background:url(http://su.bdstatic.com/static/cun/img/bd_logo2_fe7c9450.png)
+            no-repeat left top;background-position:0 0;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true,src="http://su.bdstatic.com/static/cun/img/logo_border_light_0f0bac10.png",sizingMethod="crop");_background:none;z-index:2147483647}
+        </style>
+        <script>
+            var ads = [{"bid":"","cbg":"","curl":"http://cpro.baidu.com/cpro/ui/uijs.php?adclass=0&app_id=0&c=news&cf=45&ch=0&di=8&fv=0&is_app=0&jk=fdaed38221af8d0a&k=%B7%A8%D4%BA%B3%F6%CA%DB%B6%FE%CA%D6%B3%B5&k0=%B7%A8%D4%BA%B3%F6%CA%DB%B6%FE%CA%D6%B3%B5&k1=%BE%AB%B7%C2%CA%D6%B1%ED&k2=7%D7%F9mpv%C6%FB%B3%B5%B4%F3%C8%AB&k3=%D0%C2%CB%D9%CC%DA%BD%B5%BC%DB&k4=%B5%D6%D1%BA%B3%B5%B3%F6%CA%DB&kdi0=8&kdi1=8&kdi2=8&kdi3=8&kdi4=8&luki=1&n=10&p=baidu&q=08067099_1_cpr&rb=1&rs=1&seller_id=1&sid=a8daf2182d3aefd&ssp2=7&stid=50&t=tpclicked3_hc&td=1446549&tu=u1446549&u=http%3A%2F%2Fcn%2Emsn%2Ecom%2F%3Focid%3Diehp&urlid=0","desc":"法院出售二手车","dspw":"","height":90,"icon":1548,"image_url":"http://t11.baidu.com/it/u=3722629741,3719036075&fm=76","isHb":"false","iss":0,"surl":"","title":"法院出售二手车","type":"text","width":728,"word_src":"6","wp":0},{"bid":"","cbg":"","curl":"http://cpro.baidu.com/cpro/ui/uijs.php?adclass=0&app_id=0&c=news&cf=45&ch=0&di=8&fv=0&is_app=0&jk=fdaed38221af8d0a&k=%BE%AB%B7%C2%CA%D6%B1%ED&k0=%BE%AB%B7%C2%CA%D6%B1%ED&k1=%B7%A8%D4%BA%B3%F6%CA%DB%B6%FE%CA%D6%B3%B5&k2=7%D7%F9mpv%C6%FB%B3%B5%B4%F3%C8%AB&k3=%D0%C2%CB%D9%CC%DA%BD%B5%BC%DB&k4=%B5%D6%D1%BA%B3%B5%B3%F6%CA%DB&kdi0=8&kdi1=8&kdi2=8&kdi3=8&kdi4=8&luki=2&n=10&p=baidu&q=08067099_1_cpr&rb=1&rs=1&seller_id=1&sid=a8daf2182d3aefd&ssp2=7&stid=50&t=tpclicked3_hc&td=1446549&tu=u1446549&u=http%3A%2F%2Fcn%2Emsn%2Ecom%2F%3Focid%3Diehp&urlid=0","desc":"精仿手表","dspw":"","height":90,"icon":998,"image_url":"http://t10.baidu.com/it/u=1205215653,1677771992&fm=76","isHb":"false","iss":0,"surl":"","title":"精仿手表","type":"text","width":728,"word_src":"6","wp":0},{"bid":"","cbg":"","curl":"http://cpro.baidu.com/cpro/ui/uijs.php?adclass=0&app_id=0&c=news&cf=45&ch=0&di=8&fv=0&is_app=0&jk=fdaed38221af8d0a&k=7%D7%F9mpv%C6%FB%B3%B5%B4%F3%C8%AB&k0=7%D7%F9mpv%C6%FB%B3%B5%B4%F3%C8%AB&k1=%B7%A8%D4%BA%B3%F6%CA%DB%B6%FE%CA%D6%B3%B5&k2=%BE%AB%B7%C2%CA%D6%B1%ED&k3=%D0%C2%CB%D9%CC%DA%BD%B5%BC%DB&k4=%B5%D6%D1%BA%B3%B5%B3%F6%CA%DB&kdi0=8&kdi1=8&kdi2=8&kdi3=8&kdi4=8&luki=3&n=10&p=baidu&q=08067099_1_cpr&rb=1&rs=1&seller_id=1&sid=a8daf2182d3aefd&ssp2=7&stid=50&t=tpclicked3_hc&td=1446549&tu=u1446549&u=http%3A%2F%2Fcn%2Emsn%2Ecom%2F%3Focid%3Diehp&urlid=0","desc":"7座mpv汽车大全","dspw":"","height":90,"icon":1542,"image_url":"http://t12.baidu.com/it/u=1082273648,1877779357&fm=76","isHb":"false","iss":0,"surl":"","title":"7座mpv汽车大全","type":"text","width":728,"word_src":"6","wp":0},{"bid":"","cbg":"","curl":"http://cpro.baidu.com/cpro/ui/uijs.php?adclass=0&app_id=0&c=news&cf=45&ch=0&di=8&fv=0&is_app=0&jk=fdaed38221af8d0a&k=%D0%C2%CB%D9%CC%DA%BD%B5%BC%DB&k0=%D0%C2%CB%D9%CC%DA%BD%B5%BC%DB&k1=%B7%A8%D4%BA%B3%F6%CA%DB%B6%FE%CA%D6%B3%B5&k2=%BE%AB%B7%C2%CA%D6%B1%ED&k3=7%D7%F9mpv%C6%FB%B3%B5%B4%F3%C8%AB&k4=%B5%D6%D1%BA%B3%B5%B3%F6%CA%DB&kdi0=8&kdi1=8&kdi2=8&kdi3=8&kdi4=8&luki=4&n=10&p=baidu&q=08067099_1_cpr&rb=1&rs=1&seller_id=1&sid=a8daf2182d3aefd&ssp2=7&stid=50&t=tpclicked3_hc&td=1446549&tu=u1446549&u=http%3A%2F%2Fcn%2Emsn%2Ecom%2F%3Focid%3Diehp&urlid=0","desc":"新速腾降价","dspw":"","height":90,"icon":813,"image_url":"http://t12.baidu.com/it/u=4285898651,102829874&fm=76","isHb":"false","iss":0,"surl":"","title":"新速腾降价","type":"text","width":728,"word_src":"6","wp":0},{"bid":"","cbg":"","curl":"http://cpro.baidu.com/cpro/ui/uijs.php?adclass=0&app_id=0&c=news&cf=45&ch=0&di=8&fv=0&is_app=0&jk=fdaed38221af8d0a&k=%B5%D6%D1%BA%B3%B5%B3%F6%CA%DB&k0=%B5%D6%D1%BA%B3%B5%B3%F6%CA%DB&k1=%B7%A8%D4%BA%B3%F6%CA%DB%B6%FE%CA%D6%B3%B5&k2=%BE%AB%B7%C2%CA%D6%B1%ED&k3=7%D7%F9mpv%C6%FB%B3%B5%B4%F3%C8%AB&k4=%D0%C2%CB%D9%CC%DA%BD%B5%BC%DB&kdi0=8&kdi1=8&kdi2=8&kdi3=8&kdi4=8&luki=5&n=10&p=baidu&q=08067099_1_cpr&rb=1&rs=1&seller_id=1&sid=a8daf2182d3aefd&ssp2=7&stid=50&t=tpclicked3_hc&td=1446549&tu=u1446549&u=http%3A%2F%2Fcn%2Emsn%2Ecom%2F%3Focid%3Diehp&urlid=0","desc":"抵押车出售","dspw":"","height":90,"icon":903,"image_url":"http://t10.baidu.com/it/u=1187706138,1202840043&fm=76","isHb":"false","iss":0,"surl":"","title":"抵押车出售","type":"text","width":728,"word_src":"6","wp":0}]; 
+            var config = {"at":134,"aurl":"","cad":0,"conBW":0,"conOP":0,"hn":1,"imageRowCount":1,"itepl":0,"itepr":0,"lunum":6,"n":"08067099_1_cpr","rad":"","rankImgHeight":80,"rankImgStyle":3,"rankImgWidth":129,"rsi0":728,"rsi1":90,"rsi5":4,"rss0":"#FFFFFF","rss1":"#FFFFFF","rss2":"#0000FF","rss3":"#444444","rss4":"#008000","rss6":"#e10900","rss7":"#ffffff","scale":"","skin":"","temp_exp_flag":0,"titFS":14,"titTA":"left","titfip":0,"wn":5};
+            
+        </script>
+        <script>
+            var thisPage={iconArray:[],init:function(){this.ad=ads;this.iconArray=[];this.iconImgArray=[];this.lunboIndex=0;this.lunboIndexImg=0;this.lunboTime=2000;this.lunboImgTime=2500;this.lunboRankOpen=false;this.lunboImgOpen=false;this.switchFlag=true;this.switchImgFlag=true;this.container=document.getElementById("container");this.containerBorder=parseInt(config.conBW);this.containerBorderColor=config.rss0;this.containerBackgroundColor=config.rss1;if(!this.containerBorder&&(config.wn==1)){this.containerBorder=1;this.containerBorderColor="#eeeeee"}this.containerIsTransparent=config.conOP?true:false;this.containerPaddingTop=2;this.containerPaddingRight=0;this.containerPaddingBottom=0;this.containerPaddingLeft=0;this.containerWidth=parseInt(config.rsi0)-2*this.containerBorder-this.containerPaddingLeft-this.containerPaddingRight;this.containerHeight=parseInt(config.rsi1)-2*this.containerBorder-this.containerPaddingTop-this.containerPaddingBottom;this.titleFontColor="";this.titleFontSize=parseInt(config.titFS);this.titleFontFamily=decodeURIComponent(config.titFF)=="微软雅黑"?"Microsoft Yahei":"宋体,宋体";this.titleMinLineHeight=18;this.iconWidth=16;if(!config.imageRowCount){this.imageRowCount=1}else{this.imageRowCount=config.imageRowCount}this.adRowNum=config.hn-this.imageRowCount;this.adColumnNum=config.wn;this.picItemHeight=config.rankImgHeight;this.style=config.rankImgStyle;this.titleHeight=Math.max(this.titleMinLineHeight,this.titleFontSize+2);this.titleWidth=this.iconWidth+14*7+4;if(this.style==5){if((this.titleWidth+4)<config.rankImgWidth){this.titleWidth=(config.rankImgWidth-4)}}this.adjustSize();this.picMagin=0;this.picTitleColor="#fff";this.picTitleHeight=20;this.picContainerBottom=this.titleMarginBottom;this.picContainerAdd=0;this.picItemBorderWidth=2;this.picDivHeight=this.picItemHeight;this.picHeight=this.picItemHeight;if(this.style==3||this.style==4||this.style==5){this.picMagin=1;this.picTitleColor="#000";this.picTitleHeight=16;this.picDivHeight-=this.picTitleHeight;this.picContainerBottom=Math.floor(this.titleMarginBottom/2);this.picContainerAdd=(this.titleMarginBottom-this.picContainerBottom)/this.imageRowCount;if(this.picContainerAdd>35){this.picContainerAdd=35}this.picItemBorderWidth=1}this.picItemWidth=this.titleWidth-2*this.picItemBorderWidth;if(this.style==4){this.picHeight-=this.picTitleHeight}this.picItemHeight+=this.picContainerAdd;this.picHeight+=this.picContainerAdd;this.picDivHeight+=this.picContainerAdd;this.containerCssStr="width:{width}px;height:{height}px;border:{border}px solid {bordercolor};padding:{paddingtop}px {paddingright}px {paddingbottom}px {paddingleft}px;"},adjustSize:function(){this.titleMarginRight=Math.floor((this.containerWidth-this.titleWidth*this.adColumnNum)/(this.adColumnNum));if((this.adRowNum+this.imageRowCount)>1){this.titleMarginBottom=Math.floor((this.containerHeight-(this.picItemHeight+4)*this.imageRowCount-this.titleHeight*this.adRowNum)/(this.adRowNum+this.imageRowCount))}else{this.titleMarginBottom=this.containerHeight-this.picItemHeight*this.imageRowCount-4}if(this.style==5){if(this.adColumnNum==1){var a=this.containerWidth-this.titleWidth-10;if(a>50){this.titleWidth+=50}else{if(a>0){this.titleWidth+=a}}this.titleMarginRight=Math.floor((this.containerWidth-this.titleWidth*this.adColumnNum)/(this.adColumnNum))}}if(this.titleMarginBottom<=0){this.picItemHeight-=5;if((this.adRowNum+this.imageRowCount)>1){this.titleMarginBottom=Math.floor((this.containerHeight-(this.picItemHeight+4)*this.imageRowCount-this.titleHeight*this.adRowNum)/(this.adRowNum+this.imageRowCount))}else{this.titleMarginBottom=this.containerHeight-this.picItemHeight*this.imageRowCount-4}}},run:function(){this.dynamicClass();if(this.style==1||this.style==2||this.style==3||this.style==4||this.style==5){this.adjustDuplicateUrl()}var c=0;var d="";var a="";var h="";var g=this.adRowNum*this.adColumnNum+this.adColumnNum*this.imageRowCount;while(c<g){if(c<(this.adColumnNum*this.imageRowCount)){a+=e(this,c);if(c%this.adColumnNum!=this.adColumnNum-1){a+='<div class="pic_itemColumnSpace" ></div>'}}else{var j=c-this.adColumnNum*this.imageRowCount;var f=Math.floor(j/(this.adColumnNum))+(j%this.adColumnNum)*this.adRowNum+this.adColumnNum;if(f<this.ad.length){h+=k(this,f,c)}}c++}document.getElementById("pic-container").innerHTML=a;var b=document.getElementById("ranklist");b.innerHTML=h;this.iniIconArray();this.initEvents();this.autoPlay();this.autoPlayImg();function e(n,m){if(!n.ad[m].image_url||n.ad[m].image_url==""){n.ad[m].image_url="http://t12.baidu.com/it/u=357086549,3736292998&fm=58"}var l=2;if(n.style==3||n.style==4||n.style==5){l=0}var p=0;if(m<n.adColumnNum*(n.imageRowCount-1)){p=n.titleMarginBottom}var o='<div class="pic_item" style="width:'+(n.picItemWidth)+"px;height:"+(n.picItemHeight+l)+"px;margin-bottom:"+(p-n.picContainerAdd)+'px"><div class="pic" style="margin-left:'+n.picMagin+"px;margin-right:"+n.picMagin+"px;margin-top:"+n.picMagin+"px; overflow:hidden;width:"+(n.picItemWidth-n.picMagin*2)+"px;height:"+(n.picDivHeight-2-n.picMagin)+'px"><a  href="'+n.ad[m].curl+'" target="_blank"><img style=";width:'+(n.picItemWidth-n.picMagin*2)+"px;height:"+(n.picHeight-2-n.picMagin)+'px" src="'+n.ad[m].image_url+'"></a></div><div class="pic_title" title="'+n.ad[m].title+'"><a  href="'+n.ad[m].curl+'" target="_blank" title="">'+n.ad[m].title+"</a></div></div>";return o}function k(o,n,m){var l="";if((m+1)%o.adColumnNum==0){l="end_link"}var q="";if(n>=o.adColumnNum&&n<(o.adColumnNum+3)){q="icon-3"}var p='<a  class="link '+l+'" target="_blank" href="'+o.ad[n].curl+'" ><em class="icon '+q+' ">'+(n-o.adColumnNum+1)+'</em><em class="text" title="'+o.ad[n].title+'">'+o.ad[n].title+"</em></a>";return p}},dynamicClass:function(){this.addClass(".s-hl-content .bd-hl-tuwen .bd-hl-content {"+this.strTemplate(this.containerCssStr,{width:this.containerWidth,height:this.containerHeight,border:this.containerBorder+"",bordercolor:this.containerBorderColor,paddingtop:this.containerPaddingTop+"",paddingright:this.containerPaddingRight+"",paddingbottom:this.containerPaddingBottom+"",paddingleft:this.containerPaddingLeft+""})+"}");this.addClass(".pic_itemColumnSpace{width:"+this.titleMarginRight+"px}");this.addClass(".pic_title{width:"+(this.titleWidth-4)+"px;line-height:"+this.picTitleHeight+"px;height:"+this.picTitleHeight+"px;}");this.addClass(".pic-container{height:"+((this.picItemHeight+4+this.titleMarginBottom)*this.imageRowCount-this.titleMarginBottom)+"px}");this.addClass(".s-hl-content .bd-hl-content .ranklist .link .text{color:"+this.titleFontColor+"}");this.addClass(".s-hl-content .bd-hl-content .pic-container .pic_title a {color:"+this.picTitleColor+"}");this.addClass(".s-hl-content .bd-hl-content .pic_item .pic_title{font-size:14px;}");this.addClass(".link{width:"+this.titleWidth+"px;margin-right: "+this.titleMarginRight+"px;margin-bottom:"+(this.titleMarginBottom-2)+"px;margin-top:2px;}");this.addClass(".end_link{margin-right: 0px;}");this.addClass(".ranklist, .pic-container{padding-left:"+this.titleMarginRight/2+"px; padding-right:"+(this.titleMarginRight/2-2*this.adColumnNum)+"px}");this.addClass(".pic-container{margin-bottom:"+this.picContainerBottom+"px;}");this.addClass(".s-hl-content .bd-hl-content .pic-container .pic_item {border: "+this.picItemBorderWidth+"px solid #dddddd; float: left; overflow: hidden; position: relative;}");if(this.style==2||this.style==3||this.style==4||this.style==5){this.addClass(".s-hl-content .bd-hl-content .pic-container img.hover{-webkit-transition:-webkit-transform .5s ease-in;-moz-transition:-moz-transform .5s ease-in;-ms-transition:-ms-transform .5s ease-in;-o-transition:-o-transform .5s ease-in;transition:transform .5s ease-in;-webkit-transform:scale(1.1);-moz-transform:scale(1.1);-ms-transform:scale(1.1);-o-transform:scale(1.1);transform:scale(1.1)}")}if(this.style!=3&&(this.style!=4)&&(this.style!=5)){this.addClass(".s-hl-content .bd-hl-content .pic-container .pic_title{background:rgba(0, 0, 0, 0.65) ; filter:progid:DXImageTransform.Microsoft.Gradient(gradientType=1, startColorStr='#8D000000',endColorStr='#8D000000');")}},addClass:function(d){var e=document;var b=e.createElement("style");b.setAttribute("type","text/css");if(b.styleSheet){b.styleSheet.cssText=d}else{var a=e.createTextNode(d);b.appendChild(a)}var c=e.getElementsByTagName("head");if(c.length){c[0].appendChild(b)}else{e.documentElement.appendChild(b)}},strTemplate:function(c,b){var a=/{(.*?)}/g;return c.replace(a,function(f,e,d,g){return b[e]||""})},nextLuwords:function(){var b=Math.floor(this.lunboIndex/(this.adRowNum))+(this.lunboIndex%this.adRowNum)*this.adColumnNum;var a=this.iconArray[b];if(this.iconArray.length==1){if(this.switchFlag){this.switchFlag=false;this.setNormal(a);return}else{this.switchFlag=true;this.setHover(a);return}}this.setNormal(a);if(this.lunboIndex>=2||this.lunboIndex==this.iconArray.length-1){this.lunboIndex=0}else{this.lunboIndex=this.lunboIndex+1}b=Math.floor(this.lunboIndex/(this.adRowNum))+(this.lunboIndex%this.adRowNum)*this.adColumnNum;a=this.iconArray[b];this.setHover(a)},nextLuImgwords:function(){var a=this.iconImgArray[this.lunboIndexImg];if(this.iconImgArray.length==1){if(this.switchImgFlag){this.setNormal(a);this.switchImgFlag=false;return}else{this.switchImgFlag=true;this.setHover(a);return}}this.setNormal(a);if(this.lunboIndexImg>=2||this.lunboIndexImg==this.iconImgArray.length-1){this.lunboIndexImg=0}else{this.lunboIndexImg=this.lunboIndexImg+1}a=this.iconImgArray[this.lunboIndexImg];this.setHover(a)},autoPlay:function(){if(!this.lunboRankOpen){return}if(this.iconArray.length==0){return}This=this;var b=Math.floor(this.lunboIndex/(this.adRowNum))+(this.lunboIndex%this.adRowNum)*this.adColumnNum;var a=this.iconArray[b];this.setHover(a);this.lunboTimer=setInterval(function(){This.nextLuwords()},this.lunboTime)},autoPlayImg:function(){if(!this.lunboImgOpen){return}if(this.iconImgArray.length>0){this.setHover(this.iconImgArray[this.lunboIndexImg]);This=this;this.lunboImgTimer=setInterval(function(){This.nextLuImgwords()},this.lunboImgTime)}},setHover:function(b){var a=b.className||"";if(a.indexOf("pic_item")!==-1){b.firstChild.style.opacity="0.85";b.firstChild.style.filter="alpha(opacity=85)";b.lastChild.style.fontWeight="bold";b.style.borderColor="#ffc866";b.firstChild.firstChild.firstChild.className="hover"}else{b.style.backgroundColor="#D14836";b.lastChild.style.color="#ffffff";b.firstChild.style.color="#ffffff"}},setNormal:function(b){var a=b.className||"";if(a.indexOf("pic_item")!==-1){b.firstChild.style.opacity="1";b.firstChild.style.filter="alpha(opacity=100)";b.lastChild.style.fontWeight="normal";b.style.borderColor="#dddddd";b.firstChild.firstChild.firstChild.className=""}else{b.style.backgroundColor="";b.lastChild.style.color="";b.firstChild.style.color=""}},iniIconArray:function(){var a=document.getElementById("ranklist");this.iconArray=new Array();for(var c=0;c<a.children.length&&c<ads.length-this.adColumnNum;c++){var e=a.children[c];this.iconArray.push(e)}var b=document.getElementById("pic-container");this.iconImgArray=new Array();for(var c=0;c<b.children.length;c++){var e=b.children[c];var d=e.className||"";if(d.indexOf("pic_itemColumnSpace")===-1){this.iconImgArray.push(e)}}},initEvents:function(){var a=document.getElementById("bd-hl-content");a.onmouseover=function(g){clearInterval(thisPage.lunboTimer);clearInterval(thisPage.lunboImgTimer);if(thisPage.iconArray.length>0){sortIndex=Math.floor(thisPage.lunboIndex/(thisPage.adRowNum))+(thisPage.lunboIndex%thisPage.adRowNum)*thisPage.adColumnNum;var d=thisPage.iconArray[sortIndex];thisPage.setNormal(d)}if(thisPage.iconImgArray.length>0){thisPage.setNormal(thisPage.iconImgArray[thisPage.lunboIndexImg])}g=g||window.event;var f=g.target||g.srcElement;var b=f;while(b&&b.parentNode){var c=b.className||"";if(c.indexOf("link")!==-1||c.indexOf("pic_item")!==-1&&c.indexOf("pic_itemColumnSpace")===-1){break}b=b.parentNode}if(!b||!b.className||(b.className.indexOf("link")===-1&&b.className.indexOf("pic_item")===-1)){return}thisPage.setHover(b)};a.onmouseout=function(f){f=f||window.event;var d=f.target||f.srcElement;var b=d;while(b&&b.parentNode){var c=b.className||"";if(c.indexOf("link")!==-1||c.indexOf("pic_item")!==-1&&c.indexOf("pic_itemColumnSpace")===-1){break}b=b.parentNode}if(!b||!b.className||(b.className.indexOf("link")===-1&&b.className.indexOf("pic_item")===-1)){thisPage.autoPlay();thisPage.autoPlayImg();return}thisPage.setNormal(b);thisPage.autoPlay();thisPage.autoPlayImg()}},adjustDuplicateUrl:function(){var f=this.ad;var b=[];var a=[];for(var e=0;e<f.length;e++){var g=false;if(!f[e].image_url||f[e].image_url==""){g=true}else{for(var d=0;d<b.length;d++){if(b[d].image_url==f[e].image_url){g=true;break}}}if(!g){b.push(f[e])}else{a.push(f[e])}if(b.length>=this.adColumnNum){break}}b=b.concat(a);for(var c=b.length;c<f.length;c++){b.push(f[c])}this.ad=b}};thisPage.init();
+        </script>
+</head>
+    <body><div style="display:none;"><img src="http://wn.pos.baidu.com/adx.php?c=d25pZD0wYThkYWYyMTgyZDNhZWZkAHM9MGE4ZGFmMjE4MmQzYWVmZAB0PTE0NDUzOTM2ODMAc2U9MQBidT00AHByaWNlPVZpYjFFd0FKUXRaN2pFcGdXNUlBOGw5TkRTM004MUJuQlpZeGNBAGNoYXJnZV9wcmljZT1WaWIxRXdBSlF0WjdqRXBnVzVJQThsOU5EUzNNODFCbkJaWXhjQQBzaGFyaW5nX3ByaWNlPVZpYjFFd0FKUXRaN2pFcGdXNUlBOGw5TkRTM004MUJuQlpZeGNBAHdpbl9kc3A9NABjaG1kPTEAYmRpZD0yNjc2MEIyMDZFMURDODY4QjE5QUU3N0VGMzZBNTYzQgBjcHJvaWQ9MjY3NjBCMjA2RTFEQzg2OEIxOUFFNzdFRjM2QTU2M0IAYmNobWQ9MAB2PTEAaT05Y2ViZjA2YQ"  height="1px" width="1px" alt="" /></div>
+        <div class="s-hl-content">
+            <style type="text/css">
+                .s-hl-content .bd-hl-tuwen{color:#000;border:0px
+                solid #CCC;position:relative}.s-hl-content .bd-hl-title{margin:15px 0 0
+                15px;font-size:18px;width:198px;height:28px;border-bottom:1px solid #CCC}.s-hl-content
+                .bd-hl-title .icon,.s-hl-content .bd-hl-title .title{float:left}.s-hl-content
+                .bd-hl-title .icon{background-color:#388bff;width:5px;height:18px;overflow:hidden}.s-hl-content
+                .bd-hl-title .title{line-height:24px;padding-left:10px;height:24px}.s-hl-content
+                .bd-hl-title .title em{height:24px;display:block;margin-top:-3px;_margin-top:-2px}.s-hl-content
+                .bd-hl-content{margin:10px 0 0 15px;font-size:12px;overflow:hidden}.s-hl-content .bd-hl-content .ranklist
+                .link{border:0 none;display:block;float:left;cursor:pointer;overflow:hidden}.s-hl-content
+                .bd-hl-content .ranklist .link .text{overflow:hidden;display:block;height:18px;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;-o-text-overflow:ellipsis}.s-hl-content
+                .bd-hl-content,.s-hl-content .bd-hl-content a,.s-hl-content .bd-hl-content
+                a:hover,.s-hl-content .bd-hl-content a:visited,.s-hl-content .bd-hl-content
+                a:link{color:#000}.s-hl-content .bd-hl-content a{text-decoration:none}.s-hl-content .bd-hl-content
+                .type{color:#999}.s-hl-content .bd-hl-content .icon{font-style:normal;font-family:Arial;font-size:12px;display:inline-block;width:14px;height:18px;line-height:18px;text-align:center;margin-right:3px}.s-hl-content
+                .bd-hl-content .icon-3{color: #D14836;}.s-hl-content .bd-hl-content
+                .icon,.s-hl-content .bd-hl-content .link .text,.s-hl-content .bd-hl-content
+                .type{display:block}.s-hl-content .bd-hl-content .icon,.s-hl-content .bd-hl-content
+                .link{float:left}.s-hl-content .bd-hl-content .type{float:right}.s-hl-content
+                .bd-hl-content .pic-container{padding-top:0;padding-bottom:0;border-style:solid;border-top-width:0;border-right-width:0;border-bottom-width:0;border-left-width:0;border-color:#fff;background-color:#fff;position:relative;overflow:hidden}.s-hl-content
+                .bd-hl-content .pic-container .pic{text-align:center;}                
+                .s-hl-content
+                .bd-hl-content .pic-container .pic_title{padding-left:0px;padding-right:0px;padding-top:0;padding-bottom:0;overflow:hidden;font-family:宋体;text-align:center;color:#fff;text-decoration:none;font-weight:normal;position:absolute;bottom:0;left:0}.s-hl-content
+                .bd-hl-content .pic-container .pic_title a{ position:relative;z-index:999;}.s-hl-content .bd-hl-content
+                .pic-container .pic_itemColumnSpace{height:40px;float:left;overflow:hidden;margin-top:0;margin-bottom:0}
+            </style>
+            <style>
+                .s-hl-content .bd-hl-title{background-color:#FFF}.s-hl-content .bd-hl-title
+                .title{ font-family:"microsoft yahei","微软雅黑E\8F6F\96C5\9ED1",Tahoma,Arial,Helvetica,STHeiti;font-size:
+                18px;font-weight:normal;color:#000}.s-hl-content
+                .bd-hl-content{position:relative; margin:0px;font-family:宋体;font-size: 12px;font-weight:normal}.s-hl-content
+                .bd-hl-content .link{font-family:宋体;font-size: 14px;font-weight:normal}.s-hl-content
+                .bd-hl-tuwen{background-color:#FFF}.s-hl-content .bd-hl-tuwen{border-color:#CCC}
+
+            </style>
+            <style>
+                .bd-logo2{text-decoration:none;cursor:pointer;display:block;overflow:hidden;position:absolute;bottom:0;right:0;z-index:2147483647}.bd-logo2{margin:0 2px 2px 0;height:14px;width:13px;background:url(http://cpro.baidustatic.com/cpro/ui/noexpire/img/2.0.1/bg.png) no-repeat left top;background-position:0 -20px;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true,src="http://cpro.baidustatic.com/cpro/ui/noexpire/img/2.0.1/logo-noborder-light.png",sizingMethod="crop");_background:0}.bd-logo2:hover{background-position:0 -35px;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true,src="http://cpro.baidustatic.com/cpro/ui/noexpire/img/2.0.1/logo-noborder-dark.png",sizingMethod="crop")}
+                
+            
+            </style>
+            <div class="bd-hl-tuwen" id="bd_hl_tuwen">
+                <div id="bd-hl-content" class="bd-hl-content">
+                    
+                    <div id="pic-container" class="pic-container">
+                        
+                    </div>
+                    
+                    <div id="ranklist" class="ranklist">
+                        
+                        <div class="clear">
+                        </div>
+                    </div>
+                    <a class="bd-logo2" target="_blank" href="http://wangmeng.baidu.com/" title="百度网盟推广" style="zoom: 1;">&nbsp;</a>
+                </div>
+                
+            </div>
+        </div>
+
+    </body>    
+<script>thisPage.run()</script>
+<script>
+var jsUrl='http://cpro.baidustatic.com/cpro/ui/noexpire/js/3.1.6/closefeedback.min.js';
+var bdUserPreferenceExpFlag=1;var preferenceInfo="czE9MTc3MDU3NTY5AXMyPTIxOTQ5MTA5NzMBcmVxdXJsPWh0dHAlM0ElMkYlMkZjbiUyRW1zbiUyRWNvbSUyRiUzRm9jaWQlM0RpZWhwAWNudG49MDgwNjcwOTlfMV9jcHIBdHU9dTE0NDY1NDkBaXA9MzMxODY0Njk2NAFjcmM9MTUyNzI2NjIxNQ==";var bdUserPreferenceReason=[{"id":5,"name":"视觉干扰","type":0},{"id":6,"name":"内容不宜","type":0},{"id":7,"name":"不感兴趣","type":0},{"id":8,"name":"其它","type":0},{"id":1005,"name":"视觉干扰","type":1},{"id":1006,"name":"内容不宜","type":1},{"id":1007,"name":"不感兴趣","type":1},{"id":1008,"name":"其它","type":1}]||[];var loadJs=function(f,e){var h=document.createElement("script");h.onload=function(){e()};h.onreadystatechange=function(){/loaded|complete/.test(h.readyState)&&e()};h.src=f;var g=document.getElementsByTagName("script")[0];g.parentNode.insertBefore(h,g)};window.onload=function(){if(bdUserPreferenceExpFlag){loadJs(jsUrl,function(){})}}
+</script>
+<style>
+#closeBtn{background-size:100% 100%; margin:0 2px 2px 0;}
+#closeBtn:hover{background-size:100% 100%;}
+</style>
+</html>
+    
+
+2015-10-20 10:55:22,178 Resolved host successfully: bj1.api.bing.com -> 202.89.233.101
+2015-10-20 10:55:22,178 Sending request via HTTP...
+2015-10-20 10:55:22,216 Resolving host: t.msn.com.cn
+2015-10-20 10:55:22,216 Host not cached.
+2015-10-20 10:55:22,217 Resolving host: b.scorecardresearch.com
+2015-10-20 10:55:22,217 Host not cached.
+2015-10-20 10:55:22,225 HTTP connection made.
+2015-10-20 10:55:22,225 Sending Request: GET /qsonhs.aspx?mkt=zh-CN&type=cb&cb=createtop4keywordhtml&q=&bq=&count=18&form=MSN005&o=p&callback=jQuery18308318472687875325_1445393683477&_=1445393684319
+2015-10-20 10:55:22,225 Sending header: accept-language : zh-CN
+2015-10-20 10:55:22,225 Sending header: host : bj1.api.bing.com
+2015-10-20 10:55:22,225 Sending header: accept : */*
+2015-10-20 10:55:22,225 Sending header: user-agent : Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)
+2015-10-20 10:55:22,225 Sending header: connection : Keep-Alive
+2015-10-20 10:55:22,225 Sending header: referer : http://cn.msn.com/?ocid=iehp
+2015-10-20 10:55:22,225 Sending header: cookie : SRCHUID=V=2&GUID=93AE88C071FC4460B72D83E342773D96; MUIDB=1D1884929FF9629221D98CD79BF963B4; MUID=1D1884929FF9629221D98CD79BF963B4; SRCHD=AF=NOFORM; SRCHUSR=AUTOREDIR=0&GEOVAR=&DOB=20151019; SRCHHPGUSR=CW=863&CH=423
+2015-10-20 10:55:22,263 Resolved host successfully: b.scorecardresearch.com -> 173.223.52.240
+2015-10-20 10:55:22,263 Sending request via HTTP...
+2015-10-20 10:55:22,263 Resolved host successfully: t.msn.com.cn -> 202.89.232.125
+2015-10-20 10:55:22,263 Sending request via HTTP...
+2015-10-20 10:55:22,287 Resolving host: bj1.api.bing.com
+2015-10-20 10:55:22,287 Host cached.
+2015-10-20 10:55:22,287 Resolved host successfully: bj1.api.bing.com -> 202.89.233.101
+2015-10-20 10:55:22,288 Sending request via HTTP...
+2015-10-20 10:55:22,310 Resolving host: api.bing.com
+2015-10-20 10:55:22,311 Host not cached.
+2015-10-20 10:55:22,312 HTTP connection made.
+2015-10-20 10:55:22,312 Sending Request: GET /activity/l.gif?nocache=1445393684351&ct=&mj=d32ad82836943f86be6552e5629f4904&d=cn.msn.com&v=1.2&c=http%3A%2F%2Fcn.msn.com%2F%3Focid%3Diehp%60%60%60%601440x900%60%60%2C%60be517f923dd5ea93043971e6f4ba56e7%7C0%5E860010-0208010400
+2015-10-20 10:55:22,312 Sending header: accept-language : zh-CN
+2015-10-20 10:55:22,312 Sending header: host : t.msn.com.cn
+2015-10-20 10:55:22,312 Sending header: accept : */*
+2015-10-20 10:55:22,312 Sending header: user-agent : Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)
+2015-10-20 10:55:22,312 Sending header: connection : Keep-Alive
+2015-10-20 10:55:22,312 Sending header: referer : http://cn.msn.com/?ocid=iehp
+2015-10-20 10:55:22,312 Sending header: cookie : MUID=1D1884929FF9629221D98CD79BF963B4
+2015-10-20 10:55:22,333 HTTP connection made.
+2015-10-20 10:55:22,333 Sending Request: GET /qsonhs.aspx?mkt=zh-CN&type=cb&cb=bing2.createtop4keywordhtml&q=&bq=&count=12&form=MSN005&o=p&callback=jQuery18304702448509621851_1445393684382&_=1445393684522
+2015-10-20 10:55:22,333 Sending header: accept-language : zh-CN
+2015-10-20 10:55:22,333 Sending header: host : bj1.api.bing.com
+2015-10-20 10:55:22,333 Sending header: accept : */*
+2015-10-20 10:55:22,333 Sending header: user-agent : Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)
+2015-10-20 10:55:22,333 Sending header: connection : Keep-Alive
+2015-10-20 10:55:22,333 Sending header: referer : http://cn.msn.com/?ocid=iehp
+2015-10-20 10:55:22,333 Sending header: cookie : SRCHUID=V=2&GUID=93AE88C071FC4460B72D83E342773D96; MUIDB=1D1884929FF9629221D98CD79BF963B4; MUID=1D1884929FF9629221D98CD79BF963B4; SRCHD=AF=NOFORM; SRCHUSR=AUTOREDIR=0&GEOVAR=&DOB=20151019; SRCHHPGUSR=CW=863&CH=423
+2015-10-20 10:55:22,334 Got server response: HTTP/1.1 200 OK
+2015-10-20 10:55:22,334 Got server header: Content-Type:application/x-javascript; charset=utf-8
+2015-10-20 10:55:22,334 Got server header: Server:Microsoft-IIS/8.5
+2015-10-20 10:55:22,334 Got server header: X-Content-Type-Options:nosniff
+2015-10-20 10:55:22,334 Got server header: Edge-control:!no-store,cache-maxage=900s
+2015-10-20 10:55:22,335 Got server header: Date:Wed, 21 Oct 2015 02:14:43 GMT
+2015-10-20 10:55:22,335 Got server header: Connection:keep-alive
+2015-10-20 10:55:22,335 Got server header: Content-Length:1009
+2015-10-20 10:55:22,335 Read from server:
+if(typeof createtop4keywordhtml == 'function') createtop4keywordhtml({"AS":{"Query":"","FullResults":1,"Results":[{"Type":"PN","Suggests":[{"Txt":"微软推Win10 Mobile预览版","Type":"PN","Sk":"","HCS":0.0},{"Txt":"网易邮箱泄露内容","Type":"PN","Sk":"PN1","HCS":0.0},{"Txt":"汪峰耳机发布","Type":"PN","Sk":"PN2","HCS":0.0},{"Txt":"曝光地球十大惊人秘闻","Type":"PN","Sk":"PN3","HCS":0.0},{"Txt":"250中国APP被苹果撤架","Type":"PN","Sk":"PN4","HCS":0.0},{"Txt":"黄晓明上新闻联播","Type":"PN","Sk":"PN5","HCS":0.0},{"Txt":"泰国琅琊榜梅长苏为人妖","Type":"PN","Sk":"PN6","HCS":0.0},{"Txt":"陈晓百万钻戒求婚陈妍希","Type":"PN","Sk":"PN7","HCS":0.0},{"Txt":"全景揭秘英国国宴","Type":"PN","Sk":"PN8","HCS":0.0},{"Txt":"威廉王子上央视节目","Type":"PN","Sk":"PN9","HCS":0.0},{"Txt":"网络走红指南","Type":"PN","Sk":"PN10","HCS":0.0},{"Txt":"纽约将建地下公园","Type":"PN","Sk":"PN11","HCS":0.0}]}]}} /* pageview_candidate */);
+2015-10-20 10:55:22,355 Resolving host: login.cn.msn.com
+2015-10-20 10:55:22,357 Host not cached.
+2015-10-20 10:55:22,358 Resolved host successfully: api.bing.com -> 191.234.5.80
+2015-10-20 10:55:22,358 Sending request via HTTP...
+2015-10-20 10:55:22,359 Resolving host: pagead2.googlesyndication.com
+2015-10-20 10:55:22,359 Host not cached.
+2015-10-20 10:55:22,360 Got server response: HTTP/1.1 200 OK
+2015-10-20 10:55:22,360 Got server header: Cache-Control:private,no-cache, no-store, must-revalidate
+2015-10-20 10:55:22,360 Got server header: Pragma:no-cache
+2015-10-20 10:55:22,360 Got server header: Content-Length:35
+2015-10-20 10:55:22,360 Got server header: Content-Type:image/gif
+2015-10-20 10:55:22,360 Response is image content, not scanning...
+2015-10-20 10:55:22,360 Got server header: Expires:-1
+2015-10-20 10:55:22,360 Got server header: Server:Microsoft-IIS/8.0
+2015-10-20 10:55:22,360 Got server header: X-AspNet-Version:4.0.30319
+2015-10-20 10:55:22,360 Got server header: Set-Cookie:Manto_TC=d32ad82836943f86be6552e5629f4904; domain=msn.com.cn; expires=Sat, 21-Oct-2045 02:14:43 GMT; path=/
+2015-10-20 10:55:22,360 Got server header: X-Powered-By:ASP.NET
+2015-10-20 10:55:22,360 Got server header: HN:MT05
+2015-10-20 10:55:22,360 Got server header: Date:Wed, 21 Oct 2015 02:14:43 GMT
+2015-10-20 10:55:22,360 Got server header: Connection:keep-alive
+2015-10-20 10:55:22,363 Resolving host: starlib.ent.msn.com.cn
+2015-10-20 10:55:22,363 Host not cached.
+2015-10-20 10:55:22,402 Resolved host successfully: login.cn.msn.com -> 202.89.232.80
+2015-10-20 10:55:22,402 Sending request via HTTP...
+2015-10-20 10:55:22,404 Resolved host successfully: pagead2.googlesyndication.com -> 203.208.48.154
+2015-10-20 10:55:22,404 Sending request via HTTP...
+2015-10-20 10:55:22,410 Resolved host successfully: starlib.ent.msn.com.cn -> 202.89.232.72
+2015-10-20 10:55:22,410 Sending request via HTTP...
+2015-10-20 10:55:22,444 Got server response: HTTP/1.1 200 OK
+2015-10-20 10:55:22,444 Got server header: Content-Type:application/x-javascript; charset=utf-8
+2015-10-20 10:55:22,444 Got server header: Server:Microsoft-IIS/8.5
+2015-10-20 10:55:22,444 Got server header: X-Content-Type-Options:nosniff
+2015-10-20 10:55:22,444 Got server header: Edge-control:!no-store,cache-maxage=900s
+2015-10-20 10:55:22,444 Got server header: Date:Wed, 21 Oct 2015 02:14:43 GMT
+2015-10-20 10:55:22,444 Got server header: Connection:keep-alive
+2015-10-20 10:55:22,444 Got server header: Content-Length:1010
+2015-10-20 10:55:22,445 Read from server:
+if(typeof bing2.createtop4keywordhtml == 'function') bing2.createtop4keywordhtml({"AS":{"Query":"","FullResults":1,"Results":[{"Type":"PN","Suggests":[{"Txt":"全景揭秘英国国宴","Type":"PN","Sk":"","HCS":0.0},{"Txt":"威廉王子上央视节目","Type":"PN","Sk":"PN1","HCS":0.0},{"Txt":"网络走红指南","Type":"PN","Sk":"PN2","HCS":0.0},{"Txt":"纽约将建地下公园","Type":"PN","Sk":"PN3","HCS":0.0},{"Txt":"韩雪拒吃蚯蚓被批","Type":"PN","Sk":"PN4","HCS":0.0},{"Txt":"日本两千年一遇美少女","Type":"PN","Sk":"PN5","HCS":0.0},{"Txt":"高校宿舍似洋房","Type":"PN","Sk":"PN6","HCS":0.0},{"Txt":"马云获英首相任命","Type":"PN","Sk":"PN7","HCS":0.0},{"Txt":"北影校庆合影超时尚大片","Type":"PN","Sk":"PN8","HCS":0.0},{"Txt":"大学生创业卖软猬甲","Type":"PN","Sk":"PN9","HCS":0.0},{"Txt":"赵薇老公遭司机假冒","Type":"PN","Sk":"PN10","HCS":0.0},{"Txt":"苹果MacBook污点门","Type":"PN","Sk":"PN11","HCS":0.0}]}]}} /* pageview_candidate */);
+2015-10-20 10:55:22,448 HTTP connection made.
+2015-10-20 10:55:22,448 Sending Request: GET /loginstate.aspx?jsoncallback=RPS.UpdateLogin
+2015-10-20 10:55:22,448 Sending header: accept-language : zh-CN
+2015-10-20 10:55:22,448 Sending header: host : login.cn.msn.com
+2015-10-20 10:55:22,449 Sending header: accept : */*
+2015-10-20 10:55:22,449 Sending header: user-agent : Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)
+2015-10-20 10:55:22,449 Sending header: connection : Keep-Alive
+2015-10-20 10:55:22,449 Sending header: referer : http://cn.msn.com/?ocid=iehp
+2015-10-20 10:55:22,449 Sending header: cookie : manto_vjid=d32ad82836943f86be6552e5629f4904; wid=1; Sample=39; vjuids=-5b80b033.1507f7c28b7.0.18861c797ee518; vjlast=1445247855.1445389373.11; SCRHDN=ASD=0&DURL=#
+2015-10-20 10:55:22,451 Resolving host: t10.baidu.com
+2015-10-20 10:55:22,451 Host not cached.
+2015-10-20 10:55:22,453 HTTP connection made.
+2015-10-20 10:55:22,453 Sending Request: GET /pagead/js/adsbygoogle.js
+2015-10-20 10:55:22,453 Sending header: connection : Keep-Alive
+2015-10-20 10:55:22,453 Sending header: accept-language : zh-CN
+2015-10-20 10:55:22,453 Sending header: referer : http://msn.qtmojo.com/main/adfshow?user=MSN|Home_Page|Home_Page_Rectangle2_300X250&db=msn&border=0&local=yes
+2015-10-20 10:55:22,453 Sending header: host : pagead2.googlesyndication.com
+2015-10-20 10:55:22,453 Sending header: accept : */*
+2015-10-20 10:55:22,453 Sending header: user-agent : Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)
+2015-10-20 10:55:22,453 Resolving host: wn.pos.baidu.com
+2015-10-20 10:55:22,453 Host not cached.
+2015-10-20 10:55:22,454 Resolving host: t11.baidu.com
+2015-10-20 10:55:22,454 Host not cached.
+2015-10-20 10:55:22,455 Resolving host: wn.pos.baidu.com
+2015-10-20 10:55:22,455 Host not cached.
+2015-10-20 10:55:22,457 HTTP connection made.
+2015-10-20 10:55:22,457 Sending Request: GET /StarInfo/getstarlist?callback=GetList&count=5&page=0&order=1&region=
+2015-10-20 10:55:22,457 Sending header: accept-language : zh-CN
+2015-10-20 10:55:22,457 Sending header: host : starlib.ent.msn.com.cn
+2015-10-20 10:55:22,457 Sending header: accept : */*
+2015-10-20 10:55:22,457 Sending header: user-agent : Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)
+2015-10-20 10:55:22,457 Sending header: connection : Keep-Alive
+2015-10-20 10:55:22,457 Sending header: referer : http://cn.msn.com/?ocid=iehp
+2015-10-20 10:55:22,457 Sending header: cookie : MUID=1D1884929FF9629221D98CD79BF963B4
+2015-10-20 10:55:22,499 Resolved host successfully: t10.baidu.com -> 222.216.229.49
+2015-10-20 10:55:22,500 Sending request via HTTP...
+2015-10-20 10:55:22,500 Got server response: HTTP/1.1 200 OK
+2015-10-20 10:55:22,500 Got server header: Cache-Control:no-cache
+2015-10-20 10:55:22,500 Got server header: Pragma:no-cache
+2015-10-20 10:55:22,500 Got server header: Content-Type:text/plain; charset=utf-8
+2015-10-20 10:55:22,500 Got server header: Expires:-1
+2015-10-20 10:55:22,500 Got server header: Server:Microsoft-IIS/7.5
+2015-10-20 10:55:22,500 Got server header: X-AspNet-Version:2.0.50727
+2015-10-20 10:55:22,501 Got server header: X-Powered-By:ASP.NET
+2015-10-20 10:55:22,501 Got server header: Date:Wed, 21 Oct 2015 02:14:43 GMT
+2015-10-20 10:55:22,501 Got server header: Connection:keep-alive
+2015-10-20 10:55:22,501 Got server header: Content-Length:208
+2015-10-20 10:55:22,501 Read from server:
+RPS.UpdateLogin([{URL:"https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=12&ct=1445393683&rver=6.1.6206.0&wp=MBI_SSL&wreply=https:%2F%2Flogin.cn.msn.com%2Fredirect.aspx&lc=2052&id=276104",loginState:"2"}])
+2015-10-20 10:55:22,501 xxoo Found secure reference: https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=12&ct=1445393683&rver=6.1.6206.0&wp=MBI_SSL&wreply=https:%2F%2Flogin.cn.msn.com%2Fredirect.aspx&lc=2052&id=276104
+2015-10-20 10:55:22,502 Resolved host successfully: wn.pos.baidu.com -> 115.239.211.206
+2015-10-20 10:55:22,502 Sending request via HTTP...
+2015-10-20 10:55:22,502 Resolved host successfully: t11.baidu.com -> 222.216.229.49
+2015-10-20 10:55:22,502 Sending request via HTTP...
+2015-10-20 10:55:22,502 Resolved host successfully: wn.pos.baidu.com -> 115.239.211.206
+2015-10-20 10:55:22,502 Sending request via HTTP...
+2015-10-20 10:55:22,506 Got server response: HTTP/1.0 200 OK
+2015-10-20 10:55:22,506 Got server header: P3P:policyref="http://www.googleadservices.com/pagead/p3p.xml", CP="NOI DEV PSA PSD IVA IVD OTP OUR OTR IND OTC"
+2015-10-20 10:55:22,506 Got server header: Content-Type:text/javascript; charset=UTF-8
+2015-10-20 10:55:22,506 Got server header: Date:Wed, 21 Oct 2015 01:19:00 GMT
+2015-10-20 10:55:22,506 Got server header: Expires:Wed, 21 Oct 2015 02:19:00 GMT
+2015-10-20 10:55:22,506 Got server header: X-Content-Type-Options:nosniff
+2015-10-20 10:55:22,506 Got server header: Content-Disposition:attachment; filename="f.txt"
+2015-10-20 10:55:22,507 Got server header: Server:cafe
+2015-10-20 10:55:22,507 Got server header: X-XSS-Protection:1; mode=block
+2015-10-20 10:55:22,507 Got server header: Age:3344
+2015-10-20 10:55:22,507 Got server header: Cache-Control:public, max-age=3600
+2015-10-20 10:55:22,507 Got server header: Accept-Ranges:none
+2015-10-20 10:55:22,507 Got server header: Vary:Accept-Encoding
+2015-10-20 10:55:22,508 Got server response: HTTP/1.1 200 OK
+2015-10-20 10:55:22,508 Got server header: Cache-Control:public, max-age=317
+2015-10-20 10:55:22,508 Got server header: Content-Type:application/x-javascript; charset=utf-8
+2015-10-20 10:55:22,508 Got server header: Expires:Wed, 21 Oct 2015 02:09:34 GMT
+2015-10-20 10:55:22,509 Got server header: Last-Modified:Wed, 21 Oct 2015 02:10:34 GMT
+2015-10-20 10:55:22,509 Got server header: Vary:*
+2015-10-20 10:55:22,509 Got server header: Server:Microsoft-IIS/8.0
+2015-10-20 10:55:22,509 Got server header: X-AspNetMvc-Version:4.0
+2015-10-20 10:55:22,509 Got server header: X-AspNet-Version:4.0.30319
+2015-10-20 10:55:22,509 Got server header: X-Powered-By:ASP.NET
+2015-10-20 10:55:22,509 Got server header: HN:03
+2015-10-20 10:55:22,509 Got server header: Date:Wed, 21 Oct 2015 02:14:43 GMT
+2015-10-20 10:55:22,509 Got server header: Connection:keep-alive
+2015-10-20 10:55:22,509 Got server header: Content-Length:1444
+2015-10-20 10:55:22,509 Read from server:
+GetList({"Starlist":[{"Starid":43,"RLFid":2088,"Name":"杨幂","StarAvatar":"Images/2088/2088_avatar.jpg","Ename":"Mi Yang","Gender":"女","Hometown":"","Horoscope":"处女座","Profession":"演员 模特 歌手","Nationality":"中国(内地)","BingScore":null,"Starheat":132,"Hits":300234,"UserId":1000006},{"Starid":79,"RLFid":200,"Name":"李冰冰","StarAvatar":"Images/200/200_avatar.jpg","Ename":"Bingbing Li","Gender":"女","Hometown":"","Horoscope":"双鱼座","Profession":"演员 歌手","Nationality":"中国(内地)","BingScore":null,"Starheat":129,"Hits":32914,"UserId":1000010},{"Starid":86,"RLFid":418,"Name":"王菲","StarAvatar":"Images/418/418_avatar.jpg","Ename":"Faye Wong","Gender":"女","Hometown":"","Horoscope":"狮子座","Profession":"歌手 演员","Nationality":"中国(香港)","BingScore":null,"Starheat":229,"Hits":43995,"UserId":10010109},{"Starid":93,"RLFid":4183,"Name":"宁财神","StarAvatar":"Images/4183/4183_avatar.jpg","Ename":"Caishen Ning","Gender":"男","Hometown":"","Horoscope":"双鱼座","Profession":"编剧","Nationality":"中国(内地)","BingScore":null,"Starheat":29,"Hits":1956,"UserId":1000245},{"Starid":143,"RLFid":16450,"Name":"安藤政信","StarAvatar":"Images/16450/16450_avatar.jpg","Ename":"Masanobu Ando","Gender":"男","Hometown":"","Horoscope":"金牛座","Profession":"演员","Nationality":"日本","BingScore":null,"Starheat":2,"Hits":83,"UserId":10009035}],"StarCount":5208});
+2015-10-20 10:55:22,513 HTTP connection made.
+2015-10-20 10:55:22,513 Sending Request: GET /it/u=1069463704,30023892&fm=76
+2015-10-20 10:55:22,513 Sending header: accept-language : zh-CN
+2015-10-20 10:55:22,513 Sending header: host : t11.baidu.com
+2015-10-20 10:55:22,513 Sending header: accept : */*
+2015-10-20 10:55:22,513 Sending header: user-agent : Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)
+2015-10-20 10:55:22,514 Sending header: connection : Keep-Alive
+2015-10-20 10:55:22,514 Sending header: referer : http://pos.baidu.com/acom?adn=0&at=128&aurl=&cad=1&ccd=32&cec=utf-8&cfv=0&ch=0&col=zh-cn&conOP=0&cpa=1&dai=1&dis=0&layout_filter=rank&ltr=&ltu=http%3A%2F%2Fcn.msn.com%2F%3Focid%3Diehp&lunum=6&n=08067099_1_cpr&pcs=863x423&pis=10000x10000&ps=2528x-2&psr=1440x900&pss=1000x2636&qn=c010ee6fb1f6fc6e&rad=&rsi0=262&rsi1=90&rsi5=4&rss0=&rss1=&rss2=&rss3=&rss4=&rss5=&rss6=&rss7=&scale=&skin=tabcloud_skin_1&stid=5&td_id=1446536&tn=baiduCustSTagLinkUnit&tpr=1445393683680&ts=1&version=2.0&xuanting=0&dtm=BAIDU_DUP2_SETJSONADSLOT&dc=2&di=u1446536&ti=MSN%E4%B8%AD%E6%96%87%E7%BD%91%EF%BC%9A%E6%95%B0%E5%AD%97%E7%94%9F%E6%B4%BB%20%E7%99%BD%E9%A2%86%E9%97%A8%E6%88%B7%3B%20(MSN%E5%AE%98%E6%96%B9%E4%B8%8B%E8%BD%BD)&tt=1445393683571.109.421.421
+2015-10-20 10:55:22,514 Sending header: cookie : BAIDUID=26760B206E1DC868B19AE77EF36A563B:FG=1
+2015-10-20 10:55:22,514 HTTP connection made.
+2015-10-20 10:55:22,514 Sending Request: GET /b?c1=2&c2=3000001&rn=0.6028946288331914&c7=http%3A%2F%2Fcn.msn.com%2F%3Focid%3Diehp&c3=&c4=http%3A%2F%2Fcn.msn.com%2F%3Focid%3Diehp&c5=&c6=&c10=&c15=&c16=&c8=MSN%E4%B8%AD%E6%96%87%E7%BD%91%EF%BC%9A%E6%95%B0%E5%AD%97%E7%94%9F%E6%B4%BB%20%E7%99%BD%E9%A2%86%E9%97%A8%E6%88%B7%3B%20(MSN%E5%AE%98%E6%96%B9%E4%B8%8B%E8%BD%BD)&c9=&cv=1.7
+2015-10-20 10:55:22,514 Sending header: accept-language : zh-CN
+2015-10-20 10:55:22,515 Sending header: host : b.scorecardresearch.com
+2015-10-20 10:55:22,515 Sending header: accept : */*
+2015-10-20 10:55:22,515 Sending header: user-agent : Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)
+2015-10-20 10:55:22,515 Sending header: connection : Keep-Alive
+2015-10-20 10:55:22,515 Sending header: referer : http://cn.msn.com/?ocid=iehp
+2015-10-20 10:55:22,515 Sending header: cookie : UID=1B417320527a20669739ab81445247861; UIDR=1445247861
+2015-10-20 10:55:22,515 HTTP connection made.
+2015-10-20 10:55:22,515 Sending Request: GET /it/u=1187706138,1202840043&fm=76
+2015-10-20 10:55:22,515 Sending header: accept-language : zh-CN
+2015-10-20 10:55:22,515 Sending header: host : t10.baidu.com
+2015-10-20 10:55:22,515 Sending header: accept : */*
+2015-10-20 10:55:22,515 Sending header: user-agent : Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)
+2015-10-20 10:55:22,515 Sending header: connection : Keep-Alive
+2015-10-20 10:55:22,515 Sending header: referer : http://pos.baidu.com/acom?adn=3&at=134&aurl=&cad=0&ccd=32&cec=utf-8&cfv=0&ch=0&col=zh-cn&conOP=0&cpa=1&dai=2&dis=0&layout_filter=rank%2Ctabcloud&ltr=&ltu=http%3A%2F%2Fcn.msn.com%2F%3Focid%3Diehp&lunum=6&n=08067099_1_cpr&pcs=863x423&pis=10000x10000&ps=2528x270&psr=1440x900&pss=1000x2636&qn=230b3f866cdfee95&rad=&rsi0=728&rsi1=90&rsi5=4&rss0=%23FFFFFF&rss1=%23FFFFFF&rss2=%230000FF&rss3=%23444444&rss4=%23008000&rss5=&rss6=%23e10900&rss7=%23ffffff&scale=&skin=&td_id=1446549&tn=text_default_728_90&tpr=1445393683680&ts=1&version=2.0&xuanting=0&dtm=BAIDU_DUP2_SETJSONADSLOT&dc=2&di=u1446549&ti=MSN%E4%B8%AD%E6%96%87%E7%BD%91%EF%BC%9A%E6%95%B0%E5%AD%97%E7%94%9F%E6%B4%BB%20%E7%99%BD%E9%A2%86%E9%97%A8%E6%88%B7%3B%20(MSN%E5%AE%98%E6%96%B9%E4%B8%8B%E8%BD%BD)&tt=1445393683571.468.577.577
+2015-10-20 10:55:22,515 Sending header: cookie : BAIDUID=26760B206E1DC868B19AE77EF36A563B:FG=1
+2015-10-20 10:55:22,525 Got server response: HTTP/1.1 200 OK
+2015-10-20 10:55:22,525 Got server header: Server:JSP3/2.0.13
+2015-10-20 10:55:22,525 Got server header: Date:Wed, 21 Oct 2015 02:14:43 GMT
+2015-10-20 10:55:22,525 Got server header: Content-Type:image/jpeg
+2015-10-20 10:55:22,525 Response is image content, not scanning...
+2015-10-20 10:55:22,525 Got server header: Content-Length:32223
+2015-10-20 10:55:22,526 Got server header: Connection:keep-alive
+2015-10-20 10:55:22,526 Got server header: ETag:53c9f45b24c7603004721ce8201e09a5
+2015-10-20 10:55:22,526 Got server header: Last-Modified:Thu, 01 Jan 1970 00:00:00 GMT
+2015-10-20 10:55:22,526 Got server header: Expires:Mon, 16 Nov 2015 20:53:08 GMT
+2015-10-20 10:55:22,526 Got server header: Age:290257
+2015-10-20 10:55:22,526 Got server header: Cache-Control:max-age=2628000
+2015-10-20 10:55:22,526 Got server header: Accept-Ranges:bytes
+2015-10-20 10:55:22,526 Got server header: Access-Control-Allow-Origin:*
+2015-10-20 10:55:22,526 Got server header: Timing-Allow-Origin:http://pos.baidu.com
+2015-10-20 10:55:22,534 Got server response: HTTP/1.1 200 OK
+2015-10-20 10:55:22,535 Got server header: Server:JSP3/2.0.13
+2015-10-20 10:55:22,535 Got server header: Date:Wed, 21 Oct 2015 02:14:43 GMT
+2015-10-20 10:55:22,535 Got server header: Content-Type:image/jpeg
+2015-10-20 10:55:22,535 Response is image content, not scanning...
+2015-10-20 10:55:22,535 Got server header: Content-Length:42226
+2015-10-20 10:55:22,535 Got server header: Connection:keep-alive
+2015-10-20 10:55:22,535 Got server header: ETag:2b476078ac42ea9ac7eea03f54fbaa94
+2015-10-20 10:55:22,535 Got server header: Last-Modified:Thu, 01 Jan 1970 00:00:00 GMT
+2015-10-20 10:55:22,535 Got server header: Expires:Thu, 22 Oct 2015 12:29:30 GMT
+2015-10-20 10:55:22,535 Got server header: Age:1644320
+2015-10-20 10:55:22,535 Got server header: Cache-Control:max-age=2628000
+2015-10-20 10:55:22,535 Got server header: Accept-Ranges:bytes
+2015-10-20 10:55:22,535 Got server header: Access-Control-Allow-Origin:*
+2015-10-20 10:55:22,536 Got server header: Timing-Allow-Origin:http://pos.baidu.com
+2015-10-20 10:55:22,545 HTTP connection made.
+2015-10-20 10:55:22,545 Sending Request: GET /adx.php?c=d25pZD0wYThkYWYyMTgyZDNhZWZkAHM9MGE4ZGFmMjE4MmQzYWVmZAB0PTE0NDUzOTM2ODMAc2U9MQBidT00AHByaWNlPVZpYjFFd0FKUXRaN2pFcGdXNUlBOGw5TkRTM004MUJuQlpZeGNBAGNoYXJnZV9wcmljZT1WaWIxRXdBSlF0WjdqRXBnVzVJQThsOU5EUzNNODFCbkJaWXhjQQBzaGFyaW5nX3ByaWNlPVZpYjFFd0FKUXRaN2pFcGdXNUlBOGw5TkRTM004MUJuQlpZeGNBAHdpbl9kc3A9NABjaG1kPTEAYmRpZD0yNjc2MEIyMDZFMURDODY4QjE5QUU3N0VGMzZBNTYzQgBjcHJvaWQ9MjY3NjBCMjA2RTFEQzg2OEIxOUFFNzdFRjM2QTU2M0IAYmNobWQ9MAB2PTEAaT05Y2ViZjA2YQ
+2015-10-20 10:55:22,545 Sending header: accept-language : zh-CN
+2015-10-20 10:55:22,545 Sending header: host : wn.pos.baidu.com
+2015-10-20 10:55:22,545 Sending header: accept : */*
+2015-10-20 10:55:22,545 Sending header: user-agent : Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)
+2015-10-20 10:55:22,546 Sending header: connection : Keep-Alive
+2015-10-20 10:55:22,547 Sending header: referer : http://pos.baidu.com/acom?adn=3&at=134&aurl=&cad=0&ccd=32&cec=utf-8&cfv=0&ch=0&col=zh-cn&conOP=0&cpa=1&dai=2&dis=0&layout_filter=rank%2Ctabcloud&ltr=&ltu=http%3A%2F%2Fcn.msn.com%2F%3Focid%3Diehp&lunum=6&n=08067099_1_cpr&pcs=863x423&pis=10000x10000&ps=2528x270&psr=1440x900&pss=1000x2636&qn=230b3f866cdfee95&rad=&rsi0=728&rsi1=90&rsi5=4&rss0=%23FFFFFF&rss1=%23FFFFFF&rss2=%230000FF&rss3=%23444444&rss4=%23008000&rss5=&rss6=%23e10900&rss7=%23ffffff&scale=&skin=&td_id=1446549&tn=text_default_728_90&tpr=1445393683680&ts=1&version=2.0&xuanting=0&dtm=BAIDU_DUP2_SETJSONADSLOT&dc=2&di=u1446549&ti=MSN%E4%B8%AD%E6%96%87%E7%BD%91%EF%BC%9A%E6%95%B0%E5%AD%97%E7%94%9F%E6%B4%BB%20%E7%99%BD%E9%A2%86%E9%97%A8%E6%88%B7%3B%20(MSN%E5%AE%98%E6%96%B9%E4%B8%8B%E8%BD%BD)&tt=1445393683571.468.577.577
+2015-10-20 10:55:22,547 Sending header: cookie : BAIDUID=26760B206E1DC868B19AE77EF36A563B:FG=1; ISBID=26760B206E1DC868B19AE77EF36A563B:FG=1; ISUS=1; CPROID=26760B206E1DC868B19AE77EF36A563B:FG=1
+2015-10-20 10:55:22,556 HTTP connection made.
+2015-10-20 10:55:22,556 Sending Request: GET /adx.php?c=d25pZD0wODZkOGVhMTcyNzU4NDQ3AHM9MDg2ZDhlYTE3Mjc1ODQ0NwB0PTE0NDUzOTM2ODMAc2U9MQBidT00AHByaWNlPVZpYjFFd0FHV0paN2pFcGdXNUlBOG9fT09XTktaR0xSdmxtTzRnAGNoYXJnZV9wcmljZT1WaWIxRXdBR1dKWjdqRXBnVzVJQThvX09PV05LWkdMUnZsbU80ZwBzaGFyaW5nX3ByaWNlPVZpYjFFd0FHV0paN2pFcGdXNUlBOG9fT09XTktaR0xSdmxtTzRnAHdpbl9kc3A9NABjaG1kPTEAYmRpZD0yNjc2MEIyMDZFMURDODY4QjE5QUU3N0VGMzZBNTYzQgBjcHJvaWQ9MjY3NjBCMjA2RTFEQzg2OEIxOUFFNzdFRjM2QTU2M0IAYmNobWQ9MAB2PTEAaT1hMTY2ZTcwMg
+2015-10-20 10:55:22,556 Sending header: accept-language : zh-CN
+2015-10-20 10:55:22,556 Sending header: host : wn.pos.baidu.com
+2015-10-20 10:55:22,556 Sending header: accept : */*
+2015-10-20 10:55:22,556 Sending header: user-agent : Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)
+2015-10-20 10:55:22,556 Sending header: connection : Keep-Alive
+2015-10-20 10:55:22,556 Sending header: referer : http://pos.baidu.com/acom?adn=0&at=128&aurl=&cad=1&ccd=32&cec=utf-8&cfv=0&ch=0&col=zh-cn&conOP=0&cpa=1&dai=1&dis=0&layout_filter=rank&ltr=&ltu=http%3A%2F%2Fcn.msn.com%2F%3Focid%3Diehp&lunum=6&n=08067099_1_cpr&pcs=863x423&pis=10000x10000&ps=2528x-2&psr=1440x900&pss=1000x2636&qn=c010ee6fb1f6fc6e&rad=&rsi0=262&rsi1=90&rsi5=4&rss0=&rss1=&rss2=&rss3=&rss4=&rss5=&rss6=&rss7=&scale=&skin=tabcloud_skin_1&stid=5&td_id=1446536&tn=baiduCustSTagLinkUnit&tpr=1445393683680&ts=1&version=2.0&xuanting=0&dtm=BAIDU_DUP2_SETJSONADSLOT&dc=2&di=u1446536&ti=MSN%E4%B8%AD%E6%96%87%E7%BD%91%EF%BC%9A%E6%95%B0%E5%AD%97%E7%94%9F%E6%B4%BB%20%E7%99%BD%E9%A2%86%E9%97%A8%E6%88%B7%3B%20(MSN%E5%AE%98%E6%96%B9%E4%B8%8B%E8%BD%BD)&tt=1445393683571.109.421.421
+2015-10-20 10:55:22,556 Sending header: cookie : BAIDUID=26760B206E1DC868B19AE77EF36A563B:FG=1; ISBID=26760B206E1DC868B19AE77EF36A563B:FG=1; ISUS=1; CPROID=26760B206E1DC868B19AE77EF36A563B:FG=1
+2015-10-20 10:55:22,557 HTTP connection made.
+2015-10-20 10:55:22,557 Sending Request: GET /qsonhs.aspx?FORM=ASAPIH&mkt=zh-CN&type=cb&cb=sa_inst.apiCB&cp=0&q=&o=l+ds+ds+p
+2015-10-20 10:55:22,558 Sending header: accept-language : zh-CN
+2015-10-20 10:55:22,558 Sending header: host : api.bing.com
+2015-10-20 10:55:22,558 Sending header: accept : */*
+2015-10-20 10:55:22,559 Sending header: user-agent : Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)
+2015-10-20 10:55:22,559 Sending header: connection : Keep-Alive
+2015-10-20 10:55:22,559 Sending header: referer : http://cn.msn.com/?ocid=iehp
+2015-10-20 10:55:21,517 Resolving host: cn.msn.com
+2015-10-20 10:55:21,517 Host not cached.
+2015-10-20 10:55:21,518 Resolving host: cn.msn.com
+2015-10-20 10:55:21,517 Resolving host: cn.msn.com
+2015-10-20 10:55:21,517 Host not cached.
+2015-10-20 10:55:21,518 Resolving host: cn.msn.com
+2015-10-20 10:55:22,556 Sending header: host : wn.pos.baidu.com
+1024
+2044564
+fda5445
+54fd
+我来自中国test
+test大方
+2015-10-20 10:55:22,556 Sending header: host : 你他妈的是谁是啊
+2015-10-20 10:55:22,556 Sending header: host : www.yws.com
+2015-10-20 10:55:22,556 Sending header: host : www.yws.cn
+2015-10-20 10:55:22,556 Sending header: host : 你他妈的来打我啊
